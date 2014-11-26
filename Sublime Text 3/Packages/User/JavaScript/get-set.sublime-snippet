@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[${1:ClassName}.prototype.get${2:Property} = function() {
+	return this._${3:property};
+}
+
+${1:ClassName}.prototype.set${2:Property} = function(${3:property}) {
+	this._${3:property} = ${3:property};
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>getset</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"HTMLAttributes",
+		"Vintage"
+	],
+	"spell_check": true
+}

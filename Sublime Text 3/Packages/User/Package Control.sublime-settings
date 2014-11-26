@@ -1,0 +1,31 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Case Conversion",
+		"ChangeQuotes",
+		"CSS Format",
+		"CSSFontFamily",
+		"DocBlockr",
+		"Emmet",
+		"Evaluate",
+		"ExportHtml",
+		"Git",
+		"GitGutter",
+		"Highlight",
+		"HTMLAttributes",
+		"jQuery",
+		"jQueryDocs",
+		"JsFormat",
+		"LESS",
+		"Less2Css",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Razor",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Flatland"
+	]
+}

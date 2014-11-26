@@ -1,0 +1,1233 @@
+{
+	"folder_history":
+	[
+		"/D/Workspace/IgniteUI/igGrid/igGrid-knockout-realtime",
+		"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com",
+		"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins",
+		"/D/Workspace/IgniteUI/igDataChart/igDataChart-knockout-with-templating",
+		"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview",
+		"/D/Workspace/SoftUni",
+		"/D/Workspace/SoftUni/JavaScriptApplications",
+		"/D/Trash/BahtiKatilaLek",
+		"/D/Workspace/SoftUni/JavaScriptOOP/Exam",
+		"/D/Workspace/IgniteUI/igGrid/igGrid-update-data-source-with-auto-generate-columns-enabled-sample",
+		"/D/Workspace/IgniteUI/igGrid/igGrid-hide-virtual-keyboard-on-mobile-device-on-enter-pressed",
+		"/D/Workspace/IgniteUI/igGrid/igGrid-save-filter-values",
+		"/D/Workspace/IgniteUI/igGrid/igGrid-localization",
+		"/D/Trash/Test",
+		"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList",
+		"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule",
+		"/D/Workspace/IgniteUI/igGrid/igGrid-updating-nodejs",
+		"/D/Workspace/IgniteUI/igGrid/igGrid-remote-paging-node",
+		"/D/Workspace/IgniteUI/Client-Side Excel Library/sample-1",
+		"/D/Workspace/IgniteUI/Client-Side Excel Library/sample-2",
+		"/D/Trash/hiddencolumns/New folder",
+		"/C/lynx_w32"
+	],
+	"last_version": 3065,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 600.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"overfl",
+						"overflow-y:   (property)"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 129.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"conver",
+						"SublimeHighlight: convert to HTML"
+					],
+					[
+						"conve",
+						"SublimeHighlight: convert to HTML"
+					],
+					[
+						"asp",
+						"Set Syntax: ASP"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 637.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Trash/hiddencolumns/New folder/index.html",
+				"/D/Trash/hiddencolumns/index.html",
+				"/D/Workspace/IgniteUI/Client-Side Excel Library/sample-1/index.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Trash/hiddencolumns/New folder/data-source.js",
+				"/D/Trash/hiddencolumns/New folder/response",
+				"/D/Trash/hiddencolumns/New folder/igGrid_ColumnFixingWithHiddenFieldBugFirstCol.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/ExportHtml.sublime-settings",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/Highlight/SublimeHighlight.sublime-settings",
+				"/D/Trash/hiddencolumns/New folder/js/extensions/igniteui-angular.js",
+				"/D/Trash/hiddencolumns/New folder/js/infragistics.lob.js",
+				"/D/Trash/hiddencolumns/New folder/css/themes/flatly/infragistics.theme.css",
+				"/D/Trash/hiddencolumns/New folder/css/themes/infragistics/framework.less",
+				"/D/Trash/hiddencolumns/New folder/js/infragistics.loader.js",
+				"/D/Trash/hiddencolumns/New folder/js/modules/infragistics.gauge_lineargauge.js",
+				"/D/Trash/hiddencolumns/igGrid_ColumnFixingWithHiddenFieldBugFirstCol.html"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"http://cdn-na.infragistics.com/igniteui/2014.2/latest/",
+					"  ",
+					"ig_ui14.1",
+					"multicolumnheaders",
+					"ig_ui13.1",
+					"http://cdn-na.infragistics.com/igniteui/2014.2/latest",
+					"HiddenColumn",
+					"}",
+					"},",
+					"HidFld1",
+					"}, ",
+					", ",
+					"	",
+					"\"HidFld1\": \"h1\",\n	\"HidFld2\": \"h2\",\n	\"HidFld3\": \"h3\",\n	\"HidFld4\": \"h4\",",
+					"table",
+					"default",
+					"http://cdn-na.infragistics.com/igniteui/2014.2/latest/",
+					"20141",
+					"fixedTable",
+					"http://cdn-na.infragistics.com/igniteui/2014.2/latest/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"as",
+						"js\\extensions\\igniteui-angular.js"
+					],
+					[
+						"lob",
+						"js\\infragistics.lob.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"da",
+						"dataSource"
+					],
+					[
+						"mesa",
+						"messageBox"
+					],
+					[
+						"fa",
+						"fadeto	.fadeTo()"
+					],
+					[
+						"curs",
+						"cursor:   (property)"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"list-s",
+						"list-style-image"
+					],
+					[
+						"tog",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"lis",
+						"lists"
+					],
+					[
+						"list",
+						"listItem"
+					],
+					[
+						"eac",
+						"each	.each()"
+					],
+					[
+						"chil",
+						"childrenSelector"
+					],
+					[
+						"ea",
+						"each	.each()"
+					],
+					[
+						"the",
+						"thead"
+					],
+					[
+						"border-col",
+						"border-collapse"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"De",
+						"DEFAULT_HEADER_COLOR"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"lon",
+						"longestRecordLength"
+					],
+					[
+						"lo",
+						"longestRecordLength"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"proto",
+						"proto	Prototype"
+					],
+					[
+						"_render",
+						"_renderBody"
+					],
+					[
+						"gr",
+						"Grid"
+					],
+					[
+						"gri",
+						"gridElement"
+					],
+					[
+						"data",
+						"dataSource"
+					],
+					[
+						"hea",
+						"headerColor"
+					],
+					[
+						"setDa",
+						"setDataSource"
+					],
+					[
+						"gree",
+						"greenify"
+					],
+					[
+						"cha",
+						"changeClassColor"
+					],
+					[
+						"html",
+						"htmlClass"
+					],
+					[
+						"b",
+						"bottom"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"igG",
+						"igGridUpdating"
+					],
+					[
+						"produc",
+						"productName"
+					],
+					[
+						"product",
+						"product-name"
+					],
+					[
+						"forma",
+						"formatTravelsQuery"
+					],
+					[
+						"getStat",
+						"getStartDate"
+					],
+					[
+						"filte",
+						"filteredTravels"
+					],
+					[
+						"item",
+						"itemType"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"month",
+						"monthAbbreviation"
+					],
+					[
+						"get",
+						"getEndDate  (function)"
+					],
+					[
+						"tran",
+						"transport  (variable)"
+					],
+					[
+						"set",
+						"setTransport"
+					],
+					[
+						"Defa",
+						"DEFAULT_TRANSPORT"
+					],
+					[
+						"va",
+						"Vacation"
+					],
+					[
+						"start",
+						"startDock"
+					],
+					[
+						"acom",
+						"accommodation"
+					],
+					[
+						"ex",
+						"Excursion"
+					],
+					[
+						"ojbec",
+						"_objectType"
+					],
+					[
+						"end",
+						"endDate"
+					],
+					[
+						"grid",
+						"infragistics.ui.grid-es.js"
+					],
+					[
+						"deu",
+						"debugger  (keyword)"
+					],
+					[
+						"time",
+						"timeToPrepare"
+					],
+					[
+						"getIs",
+						"getIsCarbonated"
+					],
+					[
+						"recipe",
+						"recipesLength"
+					],
+					[
+						"app",
+						"apply"
+					],
+					[
+						"ge",
+						"getRecipesByType  (function)"
+					],
+					[
+						"recipes",
+						"recipesByType"
+					],
+					[
+						"getTy",
+						"getTypeName"
+					],
+					[
+						"re",
+						"getRecipes  (function)"
+					],
+					[
+						"th",
+						"throw"
+					],
+					[
+						"ti",
+						"timeToPrepare"
+					],
+					[
+						"cal",
+						"calories"
+					],
+					[
+						"contains",
+						"containsPasta"
+					],
+					[
+						"exten",
+						"extends"
+					],
+					[
+						"exte",
+						"extends"
+					],
+					[
+						"f",
+						"f	Anonymous Function"
+					],
+					[
+						"qua",
+						"quantityPerServing"
+					],
+					[
+						"oup",
+						"outputBuffer"
+					],
+					[
+						"recip",
+						"recipe"
+					],
+					[
+						"d",
+						"to-do-dom-element.js"
+					],
+					[
+						"inpu",
+						"InputControl"
+					],
+					[
+						"chan",
+						"changeCheckbox"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"sections",
+						"sectionsContainer"
+					],
+					[
+						"crea",
+						"createElement  (function)"
+					],
+					[
+						"la",
+						"label"
+					],
+					[
+						"overfl",
+						"overflow-y:   (property)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/index.html",
+					"settings":
+					{
+						"buffer_size": 678,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/User/nodejs.sublime-build",
+			"command_palette":
+			{
+				"height": 269.0,
+				"selected_items":
+				[
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"conver",
+						"SublimeHighlight: convert to HTML"
+					],
+					[
+						"asp",
+						"Set Syntax: ASP"
+					],
+					[
+						"convert",
+						"SublimeHighlight: convert to RTF"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"comme",
+						"Emmet: Toggle Comment"
+					],
+					[
+						"form",
+						"Format: Javascript"
+					],
+					[
+						"bu",
+						"Build: Build"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"converth",
+						"SublimeHighlight: convert to HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"conve",
+						"SublimeHighlight: convert to HTML"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 736.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com",
+				"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/js"
+			],
+			"file_history":
+			[
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/DGeorgiev/Desktop/index.html",
+				"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/index.html",
+				"/D/Workspace/IgniteUI/igGrid/igGrid-knockout-realtime/index.html",
+				"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/js/http-requester.js",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins/fading-message-box/index.html",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins/fading-message-box/message-box.js",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins/tree-view-plugin/tree-view.js",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins/tree-view-plugin/index.html",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Slider/index.html",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Slider/slider.js",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Slider/dejavu.min.js",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Table-Generator/grid.js",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Table-Generator/index.html",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Table-Generator/grid.css",
+				"/D/Workspace/IgniteUI/igDataChart/igDataChart-knockout-with-templating/index.html",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/data-source.js",
+				"/C/index.html",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Background-Color-Switch/index.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/Highlight/SublimeHighlight.sublime-settings",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/ExportHtml/ExportHtml.sublime-settings",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Background-Color-Switch",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/BackgroundColorSwitch",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Element-Insertion/index.html",
+				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Element-Insertion",
+				"/D/Trash/BahtiKatilaLek/index.html",
+				"/D/Workspace/SoftUni/JavaScriptOOP/Exam/TravelAgency-Skeleton.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/Exam/TravelAgency.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript/get-set.sublime-snippet",
+				"/D/Workspace/IgniteUI/igGrid/igGrid-localization/index.html",
+				"/D/Trash/Test/Restaurant-Manager-Skeleton.js",
+				"/D/Trash/Test/index.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
+				"/D/Trash/Test/Restaurant-Manager.docx",
+				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/item.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/container.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/index.html",
+				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/app.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/section.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/to-do-list.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/input-control.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/to-do-dom-element.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/require.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/js/item.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/index.html",
+				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/css/to-do-list.css",
+				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/js/container.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/js/section.js",
+				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/js/input-control.js",
+				"/D/Workspace/IgniteUI/igGrid/igGrid-updating-nodejs/server.js",
+				"/D/Workspace/IgniteUI/igGrid/igGrid-updating-nodejs/index.html",
+				"/D/Workspace/IgniteUI/igGrid/igGrid-remote-paging-node/index.html",
+				"/D/Workspace/IgniteUI/igGrid/igGrid-remote-paging-node/server.js",
+				"/D/Trash/index.html",
+				"/D/Trash/hiddencolumns/New folder/index.html",
+				"/D/Trash/hiddencolumns/index.html",
+				"/D/Workspace/IgniteUI/Client-Side Excel Library/sample-1/index.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Trash/hiddencolumns/New folder/data-source.js",
+				"/D/Trash/hiddencolumns/New folder/response",
+				"/D/Trash/hiddencolumns/New folder/igGrid_ColumnFixingWithHiddenFieldBugFirstCol.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/ExportHtml.sublime-settings",
+				"/D/Trash/hiddencolumns/New folder/js/extensions/igniteui-angular.js",
+				"/D/Trash/hiddencolumns/New folder/js/infragistics.lob.js",
+				"/D/Trash/hiddencolumns/New folder/css/themes/flatly/infragistics.theme.css",
+				"/D/Trash/hiddencolumns/New folder/css/themes/infragistics/framework.less",
+				"/D/Trash/hiddencolumns/New folder/js/infragistics.loader.js",
+				"/D/Trash/hiddencolumns/New folder/js/modules/infragistics.gauge_lineargauge.js",
+				"/D/Trash/hiddencolumns/igGrid_ColumnFixingWithHiddenFieldBugFirstCol.html"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\"China\"",
+					"\n\n",
+					"Year",
+					"}",
+					"Contractors",
+					"Employees",
+					"65990",
+					"58410",
+					"55754",
+					"49690",
+					"42110",
+					"39150",
+					"36102",
+					"30542",
+					"25942",
+					"19894",
+					"12504",
+					"6320",
+					"FiscalPeriod",
+					"Contractors",
+					"Employees",
+					":",
+					"\"",
+					"},",
+					"200px",
+					"igHierarchicalGrid",
+					"Col4column",
+					"						",
+					";\n",
+					"Kor",
+					"300",
+					"_show",
+					"miliseconds",
+					"time",
+					"().",
+					"time",
+					"success",
+					"Success",
+					"success",
+					"show",
+					"300",
+					"_fadeOut",
+					"treeView",
+					"default",
+					"this",
+					"list",
+					"item",
+					"list",
+					"el",
+					"listItems",
+					"children",
+					"el",
+					"node",
+					"element",
+					"childrenSelector",
+					"node",
+					"childSelector",
+					"element",
+					"node",
+					"selector",
+					"n",
+					"selector",
+					"nodeType",
+					"ul",
+					"element",
+					"el",
+					"element",
+					"$children",
+					"collapseNode",
+					"collapseChildNodes",
+					"collapseNode",
+					"collapseChildNodes",
+					"<div>",
+					"</div>",
+					"div",
+					"Item",
+					"Subitem",
+					"val",
+					"element",
+					"argument",
+					"hideChNodes",
+					"this",
+					"grid",
+					"Subitem",
+					"p>",
+					"p",
+					"header",
+					"capitaliz",
+					"capitalizeHeaders",
+					"green",
+					"column",
+					"header",
+					"$th",
+					"th",
+					"i",
+					"header",
+					"tr",
+					"th",
+					"DEFAULT_HEADER_COLOR",
+					"headerColor",
+					"DEFAULT_HEADER_COLOR",
+					"DEFAULT_HEADERS_COLOR",
+					"$_element",
+					"th",
+					"debugger",
+					"getEle",
+					"       ",
+					"          ",
+					"infragistics.chart_categorychart.js",
+					"infragistics.datasource-en.js",
+					"http://www.igniteui.com/js/external",
+					"./",
+					".",
+					"http://cdn-na.infragistics.com/igniteui/2014.2/latest/",
+					"ko.observable(",
+					"\"",
+					"  	",
+					"]",
+					"[",
+					"\"ProductNumber\"",
+					"table",
+					"WebDataGrid1",
+					"key",
+					"column",
+					"setColumns",
+					"columns",
+					"_Columns",
+					"first_argument"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "D:\\Workspace\\SoftUni\\JavaScriptApplications\\baas-and-parse.com"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 678,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										651,
+										651
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 102.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 424.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,661,1304,-9,2122",
+			"project": "",
+			"replace":
+			{
+				"height": 80.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"inde",
+						"tree-view-plugin\\index.html"
+					],
+					[
+						"tre",
+						"tree-view-plugin\\tree-view.js"
+					],
+					[
+						"htm",
+						"tree-view-plugin\\index.html"
+					],
+					[
+						"re",
+						"Restaurant-Manager-Skeleton.js"
+					],
+					[
+						"item",
+						"js\\item.js"
+					],
+					[
+						"sec",
+						"js\\section.js"
+					],
+					[
+						"section",
+						"js\\section.js"
+					],
+					[
+						"as",
+						"js\\extensions\\igniteui-angular.js"
+					],
+					[
+						"lob",
+						"js\\infragistics.lob.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

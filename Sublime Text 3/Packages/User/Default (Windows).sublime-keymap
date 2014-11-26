@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+alt+t"], "command": "unexpand_tabs", "args": {"set_translate_tabs": true} }
+]
