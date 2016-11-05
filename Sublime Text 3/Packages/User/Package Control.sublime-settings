@@ -1,7 +1,14 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AngularJS",
+		"arduino-cli",
+		"Arduino-like IDE",
 		"AutoFileName",
 		"BracketHighlighter",
 		"Case Conversion",
@@ -12,20 +19,34 @@
 		"Emmet",
 		"Evaluate",
 		"ExportHtml",
+		"FakeDataGenerator",
 		"Git",
 		"GitGutter",
+		"HexViewer",
 		"Highlight",
 		"HTMLAttributes",
+		"Jade",
 		"jQuery",
 		"jQueryDocs",
 		"JsFormat",
 		"LESS",
 		"Less2Css",
+		"lessc",
 		"LiveReload",
+		"Markdown Preview",
 		"Nettuts+ Fetch",
+		"Package Control",
+		"PowerShell",
+		"ProjectManager",
 		"Razor",
+		"Sass",
+		"SASS Build",
 		"SideBarEnhancements",
+		"SqlBeautifier",
 		"SublimeCodeIntel",
-		"Theme - Flatland"
+		"SublimeREPL",
+		"Theme - Flatland",
+		"TypeScript",
+		"VBDotNet"
 	]
 }

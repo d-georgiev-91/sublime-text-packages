@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<!-- Ignite UI Required Combined CSS Files -->
+<link href="http://cdn-na.infragistics.com/igniteui/20${1:16.1}/latest/css/themes/infragistics/infragistics.theme.css" rel="stylesheet" />
+<link href="http://cdn-na.infragistics.com/igniteui/20${1:16.1}/latest/css/structure/infragistics.css" rel="stylesheet" />    
+
+<script type="text/javascript" src="http://modernizr.com/downloads/modernizr-latest.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+
+<!-- Ignite UI Required Combined JavaScript Files -->
+<script type="text/javascript" src="http://cdn-na.infragistics.com/igniteui/20${1:16.1}/latest/js/infragistics.core.js"></script>
+<script type="text/javascript" src="http://cdn-na.infragistics.com/igniteui/20${1:16.1}/latest/js/infragistics.lob.js"></script>
+<script type="text/javascript" src="http://cdn-na.infragistics.com/igniteui/20${1:16.1}/latest/js/infragistics.dv.js"></script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>igui</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

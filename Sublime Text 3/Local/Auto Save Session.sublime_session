@@ -1,35 +1,141 @@
 {
 	"folder_history":
 	[
-		"/D/Workspace/IgniteUI/igGrid/igGrid-knockout-realtime",
-		"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com",
-		"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins",
-		"/D/Workspace/IgniteUI/igDataChart/igDataChart-knockout-with-templating",
-		"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview",
-		"/D/Workspace/SoftUni",
-		"/D/Workspace/SoftUni/JavaScriptApplications",
-		"/D/Trash/BahtiKatilaLek",
-		"/D/Workspace/SoftUni/JavaScriptOOP/Exam",
-		"/D/Workspace/IgniteUI/igGrid/igGrid-update-data-source-with-auto-generate-columns-enabled-sample",
-		"/D/Workspace/IgniteUI/igGrid/igGrid-hide-virtual-keyboard-on-mobile-device-on-enter-pressed",
-		"/D/Workspace/IgniteUI/igGrid/igGrid-save-filter-values",
-		"/D/Workspace/IgniteUI/igGrid/igGrid-localization",
-		"/D/Trash/Test",
-		"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList",
-		"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule",
-		"/D/Workspace/IgniteUI/igGrid/igGrid-updating-nodejs",
-		"/D/Workspace/IgniteUI/igGrid/igGrid-remote-paging-node",
+		"/D/Trash/CAS-178661-T6C6N0",
+		"/D/Workspace/zero-blocks",
+		"/D/Workspace/SoftUni/NodeJs/RealEstate",
+		"/D/Workspace/ignite-ui",
+		"/D/Trash/CAS-178368-Z4K9T5",
+		"/D/Trash/kurva",
+		"/D/Trash/Spam",
+		"/D/Trash/CAS-177421-D5G4G7",
+		"/D/Testing",
+		"/D/Trash/CAS-177334-C7C2V9",
+		"/C/inetpub/wwwroot/detect-location",
+		"/D/Workspace/detect-location",
+		"/D/Trash/sample-issue",
+		"/D/Trash/igDataChart-VerticalLine",
+		"/D/Trash/reg-test",
+		"/D/Trash/CAS-174344-W6Q0G4",
+		"/D/Trash/CAS-173961-N6P6T4",
+		"/D/Trash/CAS-173799-P9X3K5",
+		"/D/Trash/test-npm-zero-blocks",
+		"/D/Trash/CAS-172966-G3X5G9",
+		"/D/Trash/215836",
+		"/D/Trash/CAS-170151-D2T0H6",
+		"/D/Workspace/Angular-Training/ticketing-system",
+		"/D/Trash/CAS-172280-X7S3M1",
+		"/D/Trash/pie",
+		"/D/Workspace/Angular-Training/ticketing-system/design",
+		"/D/Trash/CASE-23105T_",
+		"/D/Trash/nqkav-tapak",
+		"/D/Workspace/SoftUni/Arduino/project",
+		"/D/Workspace/Arduino/while",
+		"/D/Workspace/Arduino/if-else-if",
+		"/D/Workspace/Arduino/6-leds.ino",
+		"/D/Trash/CAS-171246-Q6T9B8",
+		"/D/Trash/playground",
+		"/D/Trash/igSplitterBootstrap",
+		"/D/Trash/delete-me",
+		"/D/Trash/CAS-170952-T8Y9X8",
+		"/D/Trash/yuki-mita",
+		"/D/Bugs/new-bug",
+		"/D/Bugs/215836",
+		"/D/Trash/CAS-170938-G3B8K6",
+		"/D/Trash/Splitter",
+		"/D/Trash/Layout",
+		"/D/Trash/CAS-170452-S9M8S4",
+		"/D/Trash/testexam1",
+		"/D/Bugs/214733",
+		"/D/Bugs/214449",
+		"/D/Trash/chart-custom-legend",
+		"/D/Bugs/214585",
+		"/D/Trash/CAS-170243-G5S7D2",
+		"/D/Trash/214449",
+		"/D/Trash/case",
+		"/D/Workspace/IgniteUI/igGrid/igGrid-append-on-demand-sample",
+		"/D/Workspace/IgniteUI/igGrid/igGrid-load-on-demand-sample",
+		"/D/Bugs/ForumCase",
+		"/D/Workspace/ES6-playground",
+		"/D/Trash/CAS-168892-C6H6J8",
+		"/D/Workspace/devtools-extension-boilerplate-master/panel-boilerplate",
+		"/D/Trash/batarang-master",
+		"/D/Trash/CAS-167170-R3H8N5",
+		"/D/Trash/CanvasAsImage",
 		"/D/Workspace/IgniteUI/Client-Side Excel Library/sample-1",
-		"/D/Workspace/IgniteUI/Client-Side Excel Library/sample-2",
-		"/D/Trash/hiddencolumns/New folder",
-		"/C/lynx_w32"
+		"/D/Cases/CAS-166891-N1L7M6",
+		"/D/Trash/CAS-166891-N1L7M6",
+		"/C/xampp/htdocs/WP",
+		"/D/Trash/CAS-166396-S7L1N1",
+		"/D/Trash/CAS-166067-C2L6R9/CAS-166067-C2L6R9/html",
+		"/D/Trash/Combo-Redmong",
+		"/D/Trash/igGridAsdf",
+		"/D/Trash/LoadExcel",
+		"/D/Workspace/Infragistics/php/app",
+		"/D/Trash/IgniteUiLoadingIndicator",
+		"/D/Trash/CAS-165169-T4H0H3",
+		"/D/Trash/highlight-specific-points",
+		"/D/Trash/HighlihtSpecificPoint",
+		"/D/Trash/export-multiple-grids",
+		"/D/Trash/CAS-164289-H9P0K9",
+		"/D/Trash/CAS-164594-H4W7V0",
+		"/D/Trash/GridEditing",
+		"/D/Trash/HighlightRow",
+		"/D/Trash/CAS-164592-L3M6G1",
+		"/D/Trash/test",
+		"/D/Trash/map",
+		"/D/Trash/ChartTooltip",
+		"/D/Trash/test-bug",
+		"/D/Trash/CAS-163764-V9G9X5",
+		"/D/Trash/exporting-sample",
+		"/D/Trash/CAS-159336-B8Y0T6",
+		"/D/Trash/CAS-163554-B2S3S1",
+		"/D/Trash/handlebars-skip-items",
+		"/D/Trash/CAS-163181-J1P2M9",
+		"/D/Trash/CAS-161814-V3S1B0",
+		"/D/Trash/CAS-159464-G5Q3J4",
+		"/D/Trash/CAS-159209-S9Y8R4",
+		"/D/Trash/CAS-158630-G7D0C3",
+		"/D/Trash/CAS-158455-B9F9K7",
+		"/D/Trash/CAS-158454-M8T6J2",
+		"/D/Trash/CAS-158085-W1V0M5",
+		"/D/Trash/TestBug",
+		"/D/Trash/CAS-158172-N8S1B0",
+		"/D/Trash/CAS-158083-K4N2M0",
+		"/D/Trash/CAS-158024-W1M5S7",
+		"/D/Trash/igDataChart-spline-sample",
+		"/D/Trash/igDataChart-Bar",
+		"/D/Trash/CAS-157119-T6H9D6",
+		"/D/Trash/python_tree",
+		"/D/Trash/CAS-156909-B7Q4B3",
+		"/D/Trash/CAS-156890-S7L1Q3",
+		"/D/Trash/igSplitter",
+		"/D/Trash/keis",
+		"/D/Trash/igDialogPerformanceIssue",
+		"/D/Trash/CAS-156600-J6Z0M2",
+		"/D/Trash/CAS-156454-M1H1G8",
+		"/D/Trash/slide-in-menu",
+		"/D/Trash/CAS-155897-V8H6B8",
+		"/D/Trash/JsRender",
+		"/D/Trash/bootstrap",
+		"/D/Trash/CAS-155870-T2Y6D4",
+		"/D/Trash/CAS-155869-B1Q1P7",
+		"/D/Trash/CAS-155810-D2T3G6",
+		"/D/Trash/chart",
+		"/D/Trash/CAS-155741-M4S2F7",
+		"/D/Workspace/Dev",
+		"/D/Trash/CAS-155298-V3D0G2",
+		"/D/Trash/CAS-155297-Y8Z4X3",
+		"/D/Trash/GridExcelExporterWithCharts",
+		"/D/Trash/igDatePicker-Pokemon",
+		"/D/Trash/PolarChart"
 	],
-	"last_version": 3065,
-	"last_window_id": 2,
+	"last_version": 3126,
+	"last_window_id": 30,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 600.0,
+		"new_window_height": 515.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -37,614 +143,1191 @@
 				"selected_items":
 				[
 					[
-						"overfl",
-						"overflow-y:   (property)"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 129.0,
-				"selected_items":
-				[
-					[
-						"install",
-						"Package Control: Install Package"
+						"is",
+						"isDivisibleBy5And7"
 					],
 					[
-						"conver",
-						"SublimeHighlight: convert to HTML"
+						"i",
+						"isDivisibleBy7"
 					],
 					[
-						"conve",
-						"SublimeHighlight: convert to HTML"
+						"fw",
+						"fw-b\tfont-weight: bold;"
 					],
 					[
-						"asp",
-						"Set Syntax: ASP"
+						"in",
+						"input\tTag"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
+						"imp",
+						"imports\tproperty"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 637.0
-			},
-			"console":
-			{
-				"height": 162.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/Trash/hiddencolumns/New folder/index.html",
-				"/D/Trash/hiddencolumns/index.html",
-				"/D/Workspace/IgniteUI/Client-Side Excel Library/sample-1/index.html",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/D/Trash/hiddencolumns/New folder/data-source.js",
-				"/D/Trash/hiddencolumns/New folder/response",
-				"/D/Trash/hiddencolumns/New folder/igGrid_ColumnFixingWithHiddenFieldBugFirstCol.html",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/ExportHtml.sublime-settings",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/Highlight/SublimeHighlight.sublime-settings",
-				"/D/Trash/hiddencolumns/New folder/js/extensions/igniteui-angular.js",
-				"/D/Trash/hiddencolumns/New folder/js/infragistics.lob.js",
-				"/D/Trash/hiddencolumns/New folder/css/themes/flatly/infragistics.theme.css",
-				"/D/Trash/hiddencolumns/New folder/css/themes/infragistics/framework.less",
-				"/D/Trash/hiddencolumns/New folder/js/infragistics.loader.js",
-				"/D/Trash/hiddencolumns/New folder/js/modules/infragistics.gauge_lineargauge.js",
-				"/D/Trash/hiddencolumns/igGrid_ColumnFixingWithHiddenFieldBugFirstCol.html"
-			],
-			"find":
-			{
-				"height": 27.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"http://cdn-na.infragistics.com/igniteui/2014.2/latest/",
-					"  ",
-					"ig_ui14.1",
-					"multicolumnheaders",
-					"ig_ui13.1",
-					"http://cdn-na.infragistics.com/igniteui/2014.2/latest",
-					"HiddenColumn",
-					"}",
-					"},",
-					"HidFld1",
-					"}, ",
-					", ",
-					"	",
-					"\"HidFld1\": \"h1\",\n	\"HidFld2\": \"h2\",\n	\"HidFld3\": \"h3\",\n	\"HidFld4\": \"h4\",",
-					"table",
-					"default",
-					"http://cdn-na.infragistics.com/igniteui/2014.2/latest/",
-					"20141",
-					"fixedTable",
-					"http://cdn-na.infragistics.com/igniteui/2014.2/latest/"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 25.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"replace":
-			{
-				"height": 50.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"as",
-						"js\\extensions\\igniteui-angular.js"
+						"styl",
+						"styleUrls\tproperty"
 					],
 					[
-						"lob",
-						"js\\infragistics.lob.js"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 225.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 800.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"da",
-						"dataSource"
+						"Navba",
+						"NavbarSampleComponent\talias"
 					],
 					[
-						"mesa",
-						"messageBox"
+						"sample",
+						"sample.html"
 					],
 					[
-						"fa",
-						"fadeto	.fadeTo()"
+						"ig",
+						"igui\tignite-ui-2015-2"
 					],
 					[
-						"curs",
-						"cursor:   (property)"
+						"new",
+						"newSeries〔variable〕"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"typ",
+						"type=〔attribute〕"
+					],
+					[
+						"scr",
+						"script\tTag"
+					],
+					[
+						"sc",
+						"script\tTag"
+					],
+					[
+						"mo",
+						"modules"
+					],
+					[
+						"data",
+						"data-bind"
+					],
+					[
+						"enable",
+						"enableComboState"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"lic",
+						"lic_form"
+					],
+					[
+						"get",
+						"getElementsByName〔function〕"
+					],
+					[
+						"accep",
+						"accept-agreeement-button"
+					],
+					[
+						"sca",
+						"scatter"
+					],
+					[
+						"scatte",
+						"scatterLine"
+					],
+					[
+						"cart",
+						"chartBubble"
+					],
+					[
+						"Tr",
+						"TreeDragAndDropSettings"
+					],
+					[
+						"even",
+						"eventName"
+					],
+					[
+						"ev",
+						"eventNameUpperSnakeCase"
+					],
+					[
+						"cha",
+						"character〔variable〕"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"t",
+						"infragistics.ui.toolbarbutton.css"
+					],
+					[
+						"foot",
+						"footerElement〔variable〕"
+					],
+					[
+						"first",
+						"firstNameColumn〔variable〕"
+					],
+					[
+						"ht",
+						"html\t.html()"
+					],
+					[
+						"co",
+						"content\tTag"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"c",
+						"c\tclass"
+					],
+					[
+						"p",
+						"p\tproperty"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"ze",
+						"zero-blocks/"
+					],
+					[
+						"ig1",
+						"ig152\tignite-ui-2015-2"
+					],
+					[
+						"bor",
+						"border-collapse"
+					],
+					[
+						"bo",
+						"bold"
 					],
 					[
 						"font",
 						"font-weight"
 					],
 					[
-						"text-",
-						"text-decoration"
+						"sel",
+						"selected"
 					],
 					[
-						"list-s",
-						"list-style-image"
+						"to",
+						"toggleClass〔function〕"
 					],
 					[
-						"tog",
-						"toggleClass	.toggleClass()"
+						"pie",
+						"pielegend"
 					],
 					[
-						"lis",
-						"lists"
+						"pas",
+						"passwordConfirm\tparameter"
 					],
 					[
-						"list",
-						"listItem"
+						"exp",
+						"export\tkeyword"
 					],
 					[
-						"eac",
-						"each	.each()"
+						"se",
+						"sessionStorage\tproperty"
 					],
 					[
-						"chil",
-						"childrenSelector"
+						"func",
+						"function\tkeyword"
 					],
 					[
-						"ea",
-						"each	.each()"
+						"im",
+						"import\timports a module …"
 					],
 					[
-						"the",
-						"thead"
+						"sem",
+						"semantic.json"
 					],
 					[
-						"border-col",
-						"border-collapse"
+						"remov",
+						"removeClass〔function〕"
 					],
 					[
-						"add",
-						"addClass	.addClass()"
+						"GR",
+						"GREEN_LED"
 					],
 					[
-						"De",
-						"DEFAULT_HEADER_COLOR"
+						"anal",
+						"analogWrite\tArduino analogWrite"
 					],
 					[
-						"for",
-						"for	for (…) {…}"
+						"LE",
+						"LEFT_TURN_LIGHT_SWITCH"
 					],
 					[
-						"lon",
-						"longestRecordLength"
+						"mi",
+						"millis\tArduino millis()"
+					],
+					[
+						"l",
+						"LEFT_TURN_LIGHT"
 					],
 					[
 						"lo",
-						"longestRecordLength"
+						"loop\tArduino loop"
 					],
 					[
-						"prot",
-						"prototype"
+						"uns",
+						"unselectable=\"on"
 					],
 					[
-						"proto",
-						"proto	Prototype"
+						"op",
+						"option\tTag"
 					],
 					[
-						"_render",
-						"_renderBody"
+						"ig15",
+						"ig152\tignite-ui-2015-2"
 					],
 					[
-						"gr",
-						"Grid"
+						"po",
+						"POTENTIOMETER"
 					],
 					[
-						"gri",
-						"gridElement"
+						"R",
+						"RED_LED1"
 					],
 					[
-						"data",
-						"dataSource"
+						"YE",
+						"YELLOW_LED1"
 					],
 					[
-						"hea",
-						"headerColor"
+						"g",
+						"GREEN_LED1"
 					],
 					[
-						"setDa",
-						"setDataSource"
+						"digi",
+						"digitalWrite\tArduino digitalWrite"
 					],
 					[
-						"gree",
-						"greenify"
+						"sele",
+						"select\t.select()"
 					],
 					[
-						"cha",
-						"changeClassColor"
+						"selec",
+						"selectedColors"
 					],
 					[
-						"html",
-						"htmlClass"
+						"for",
+						"for\tfor (…) {…}"
 					],
 					[
-						"b",
-						"bottom"
+						"pos",
+						"position"
 					],
 					[
-						"mar",
-						"margin"
+						"DATA",
+						"DATA1"
 					],
 					[
-						"igG",
-						"igGridUpdating"
+						"cel",
+						"cellValue"
 					],
 					[
-						"produc",
-						"productName"
-					],
-					[
-						"product",
-						"product-name"
-					],
-					[
-						"forma",
-						"formatTravelsQuery"
-					],
-					[
-						"getStat",
-						"getStartDate"
-					],
-					[
-						"filte",
-						"filteredTravels"
-					],
-					[
-						"item",
-						"itemType"
-					],
-					[
-						"type",
-						"typeof"
-					],
-					[
-						"month",
-						"monthAbbreviation"
-					],
-					[
-						"get",
-						"getEndDate  (function)"
-					],
-					[
-						"tran",
-						"transport  (variable)"
-					],
-					[
-						"set",
-						"setTransport"
-					],
-					[
-						"Defa",
-						"DEFAULT_TRANSPORT"
-					],
-					[
-						"va",
-						"Vacation"
-					],
-					[
-						"start",
-						"startDock"
-					],
-					[
-						"acom",
-						"accommodation"
-					],
-					[
-						"ex",
-						"Excursion"
-					],
-					[
-						"ojbec",
-						"_objectType"
-					],
-					[
-						"end",
-						"endDate"
-					],
-					[
-						"grid",
-						"infragistics.ui.grid-es.js"
-					],
-					[
-						"deu",
-						"debugger  (keyword)"
-					],
-					[
-						"time",
-						"timeToPrepare"
-					],
-					[
-						"getIs",
-						"getIsCarbonated"
-					],
-					[
-						"recipe",
-						"recipesLength"
-					],
-					[
-						"app",
-						"apply"
-					],
-					[
-						"ge",
-						"getRecipesByType  (function)"
-					],
-					[
-						"recipes",
-						"recipesByType"
-					],
-					[
-						"getTy",
-						"getTypeName"
-					],
-					[
-						"re",
-						"getRecipes  (function)"
-					],
-					[
-						"th",
-						"throw"
-					],
-					[
-						"ti",
-						"timeToPrepare"
-					],
-					[
-						"cal",
-						"calories"
-					],
-					[
-						"contains",
-						"containsPasta"
-					],
-					[
-						"exten",
-						"extends"
-					],
-					[
-						"exte",
-						"extends"
-					],
-					[
-						"f",
-						"f	Anonymous Function"
-					],
-					[
-						"qua",
-						"quantityPerServing"
-					],
-					[
-						"oup",
-						"outputBuffer"
-					],
-					[
-						"recip",
-						"recipe"
-					],
-					[
-						"d",
-						"to-do-dom-element.js"
-					],
-					[
-						"inpu",
-						"InputControl"
-					],
-					[
-						"chan",
-						"changeCheckbox"
-					],
-					[
-						"inli",
-						"inline-block"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"class",
-						"className"
-					],
-					[
-						"sections",
-						"sectionsContainer"
-					],
-					[
-						"crea",
-						"createElement  (function)"
-					],
-					[
-						"la",
-						"label"
-					],
-					[
-						"overfl",
-						"overflow-y:   (property)"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/index.html",
-					"settings":
-					{
-						"buffer_size": 678,
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "Packages/User/nodejs.sublime-build",
-			"command_palette":
-			{
-				"height": 269.0,
-				"selected_items":
-				[
-					[
-						"java",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"html",
-						"Set Syntax: HTML"
-					],
-					[
-						"conver",
-						"SublimeHighlight: convert to HTML"
-					],
-					[
-						"asp",
-						"Set Syntax: ASP"
-					],
-					[
-						"convert",
-						"SublimeHighlight: convert to RTF"
-					],
-					[
-						"c#",
-						"Set Syntax: C#"
-					],
-					[
-						"comme",
-						"Emmet: Toggle Comment"
+						"col",
+						"columns"
 					],
 					[
 						"form",
-						"Format: Javascript"
+						"formula"
 					],
 					[
-						"bu",
-						"Build: Build"
+						"cont",
+						"content: 〔property〕"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
+						"app",
+						"append\t.append()"
+					],
+					[
+						"conte",
+						"context"
+					],
+					[
+						"hei",
+						"height\t.height()"
+					],
+					[
+						"css",
+						"css\t.css() - single"
+					],
+					[
+						"initial",
+						"initialSelectedItems"
+					],
+					[
+						"text",
+						"text"
+					],
+					[
+						"type",
+						"type"
+					],
+					[
+						"opti",
+						"optionNamePascalCase"
+					],
+					[
+						"option",
+						"optionNameParamCase"
+					],
+					[
+						"opt",
+						"optionNameParamCase"
+					],
+					[
+						"htmle",
+						"htmleditor"
+					],
+					[
+						"chun",
+						"chunkSize"
+					],
+					[
+						"Rec",
+						"Records"
+					],
+					[
+						"rec",
+						"RecordsCountKey"
+					],
+					[
+						"J",
+						"JSONData"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"las",
+						"lastName〔variable〕"
+					],
+					[
+						"last",
+						"lastName"
+					],
+					[
+						"firs",
+						"firstName〔variable〕"
+					],
+					[
+						"cli",
+						"click"
+					],
+					[
+						"setp",
+						"setposition〔function〕"
+					],
+					[
+						"tu",
+						"turtle〔module〕"
+					],
+					[
+						"colu",
+						"columnKey"
+					],
+					[
+						"ap",
+						"append\t.append()"
+					],
+					[
+						"canva",
+						"canvases"
+					],
+					[
+						"sto",
+						"sto\tsetTimeout"
+					],
+					[
+						"htm",
+						"html5\thtml5"
+					],
+					[
+						"debu",
+						"debugger〔keyword〕"
+					],
+					[
+						"item",
+						"itemBrush"
+					],
+					[
+						"ren",
+						"renderInfo〔argument〕"
+					],
+					[
+						"wor",
+						"worksheet"
+					],
+					[
+						"work",
+						"worksheets"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"get_",
+						"get_row"
+					],
+					[
+						"hid",
+						"hideColumn"
+					],
+					[
+						"child",
+						"childGrid〔variable〕"
+					],
+					[
+						"row",
+						"rowIndex"
+					],
+					[
+						"gr",
+						"gridView"
+					],
+					[
+						"grid",
+						"gridView〔variable〕"
+					],
+					[
+						"sty",
+						"style\tTag"
+					],
+					[
+						"toolti",
+						"tooltipBottom"
+					],
+					[
+						"tooltipHe",
+						"tooltipHeight"
+					],
+					[
+						"windo",
+						"windowHeight〔variable〕"
+					],
+					[
+						"win",
+						"windowHeight〔variable〕"
+					],
+					[
+						"char",
+						"chart"
+					],
+					[
+						"prop",
+						"property"
+					],
+					[
+						"compon",
+						"components〔variable〕"
+					],
+					[
+						"compone",
+						"component〔variable〕"
+					],
+					[
+						"tre",
+						"trendLineDataSource〔variable〕"
+					],
+					[
+						"Date",
+						"DateAxis"
+					],
+					[
+						"script",
+						"script"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Angular 2 lite-server",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Angular 2 lite-server",
+						""
+					]
+				],
+				[
+					[
+						[
+							"List",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"List",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/TypeScript/TypeScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/nodejs.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/arduino-cli/arduino-cli.sublime-build",
+							""
+						],
+						[
+							"Packages/arduino-cli/arduino-cli.sublime-build",
+							"just build"
+						],
+						[
+							"Packages/arduino-cli/arduino-cli.sublime-build",
+							"build and upload"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/arduino-cli/arduino-cli.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"docb",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"typescr",
+						"TypeScript: Show Error List"
+					],
+					[
+						"fo",
+						"TypeScript: Format Document"
+					],
+					[
+						"for",
+						"TypeScript: Format Document"
+					],
+					[
+						"forma",
+						"TypeScript: Format Document"
 					],
 					[
 						"instal",
 						"Package Control: Install Package"
 					],
 					[
-						"converth",
-						"SublimeHighlight: convert to HTML"
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"C#",
+						"Set Syntax: C#"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"h",
+						"Set Syntax: HTML"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"sass",
+						"Build With: SASS"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"sass\t",
+						"Set Syntax: Sass"
+					],
+					[
+						"typescript",
+						"TypeScript: GoTo Definition"
+					],
+					[
+						"form",
+						"Format: Javascript"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"yth",
+						"Set Syntax: Python"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"hm",
+						"Set Syntax: HTML"
+					],
+					[
+						"das",
+						"Convert Case: dash-case"
+					],
+					[
+						"dash",
+						"Convert Case: dash-case"
+					],
+					[
+						"conver sp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"preview",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"set syntax ma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"instal ",
+						"Package Control: Install Package"
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"up",
+						"Convert Case: Upper Case"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"fake",
+						"Fake: it!"
+					],
+					[
+						"l",
+						"Convert Case: Lower Case"
+					],
+					[
+						"lo",
+						"Convert Case: Lower Case"
+					],
+					[
+						"da",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"co",
+						"Convert Case: dash-case"
+					],
+					[
+						"ower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"fakei",
+						"Fake: it!"
+					],
+					[
+						"fake coun",
+						"Fake: country"
+					],
+					[
+						"fak",
+						"Fake: it!"
+					],
+					[
+						"FO",
+						"Format: Javascript"
+					],
+					[
+						"tex",
+						"Fake: text"
+					],
+					[
+						"bool",
+						"Fake: boolean"
+					],
+					[
+						"fake co",
+						"Fake: country"
+					],
+					[
+						"fake use",
+						"Fake: user_name"
+					],
+					[
+						"inde",
+						"Fake: index"
+					],
+					[
+						"Low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"d",
+						"Convert Case: dash-case"
+					],
+					[
+						"jav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"u",
+						"Convert Case: Upper Case"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"pas",
+						"Convert Case: PascalCase"
+					],
+					[
+						"case",
+						"Convert Case: camelCase"
+					],
+					[
+						"conver",
+						"Convert Case: dash-case"
+					],
+					[
+						"snake",
+						"Convert Case: snake_case"
+					],
+					[
+						"pascal",
+						"Convert Case: PascalCase"
+					],
+					[
+						"cas",
+						"Convert Case: PascalCase"
+					],
+					[
+						"SQ",
+						"Set Syntax: SQL"
+					],
+					[
+						"sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"snak",
+						"Convert Case: snake_case"
+					],
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"c",
+						"Convert Case: snake_case"
+					],
+					[
+						"m",
+						"Set Syntax: Markdown"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"asp",
+						"Set Syntax: ASP"
+					],
+					[
+						"fa",
+						"Fake: it!"
+					],
+					[
+						"fakeInd",
+						"Fake: index"
+					],
+					[
+						"fake ind",
+						"Fake: index"
+					],
+					[
+						"lorem",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"prop",
+						"Snippet: property"
+					],
+					[
+						"class",
+						"Snippet: class"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"xm",
+						"Set Syntax: XML"
+					],
+					[
+						"fake it",
+						"Fake: it!"
+					],
+					[
+						"ind",
+						"Fake: index"
+					],
+					[
+						"fakeind",
+						"Fake: index"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"eval",
+						"Emmet: Evaluate Math Expression"
+					],
+					[
+						"fakeit",
+						"Fake: it!"
+					],
+					[
+						"fakeN",
+						"Fake: name"
+					],
+					[
+						"in",
+						"Fake: index"
+					],
+					[
+						"fake na",
+						"Fake: name"
+					],
+					[
+						"fake inde",
+						"Fake: index"
+					],
+					[
+						"format",
+						"TypeScript: Format Document"
+					],
+					[
+						"user",
+						"Fake: user_name"
+					],
+					[
+						"on",
+						"Snippet: .on()"
+					],
+					[
+						"meth",
+						"Snippet: class method"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"f",
+						"Fake: it!"
+					],
+					[
+						"fake in",
+						"Fake: random_int"
+					],
+					[
+						"fakeint",
+						"Fake: random_int"
+					],
+					[
+						"aru",
+						"Set Syntax: Arduino"
+					],
+					[
+						"ardu",
+						"Set Syntax: Arduino"
+					],
+					[
+						"int ",
+						"Fake: random_int"
+					],
+					[
+						"build",
+						"Build With: arduino-cli - build and upload"
+					],
+					[
+						"ar",
+						"Set Syntax: Arduino"
+					],
+					[
+						"ard",
+						"Set Syntax: Arduino"
+					],
+					[
+						"use",
+						"Fake: user_name"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"ig",
+						"Snippet: ignite-ui-2015-2"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"conve",
-						"SublimeHighlight: convert to HTML"
+						"les",
+						"Set Syntax: LESS"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"type ",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"eval ex",
+						"Emmet: Evaluate Math Expression"
+					],
+					[
+						"termi",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"termina",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"terminal",
+						"Terminal: Open"
+					],
+					[
+						"node",
+						"Build With: nodejs"
+					],
+					[
+						"snip",
+						"Snippet: __magic__"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"pyt",
+						"Set Syntax: Python"
+					],
+					[
+						"eva",
+						"Emmet: Evaluate Math Expression"
+					],
+					[
+						"faked",
+						"Fake: date_time"
+					],
+					[
+						"e",
+						"Evaluate: Evaluate Selections"
+					],
+					[
+						"express",
+						"Emmet: Evaluate Math Expression"
+					],
+					[
+						"fake ",
+						"Fake: it!"
+					],
+					[
+						"fake da",
+						"Fake: date_time"
+					],
+					[
+						"fake i",
+						"Fake: it!"
+					],
+					[
+						"fake int",
+						"Fake: random_int"
+					],
+					[
+						"time",
+						"Fake: time"
+					],
+					[
+						"dat",
+						"Fake: date_time"
+					],
+					[
+						"fakein",
+						"Fake: random_int"
 					]
 				],
-				"width": 736.0
+				"width": 464.0
 			},
 			"console":
 			{
 				"height": 162.0,
 				"history":
 				[
+					"view.run_command(\"example\")",
+					"close()",
+					"exit()",
+					"exit",
+					"import antigravity",
+					"import antigrafity",
+					"python",
+					"2+2",
+					"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
@@ -657,91 +1340,144 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com",
-				"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/js"
-			],
 			"file_history":
 			[
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/Workspace/zero-blocks/src/navbar/navbar.ts",
+				"/D/Workspace/zero-blocks/demos/app/navbar/sample.html",
+				"/D/Workspace/zero-blocks/src/main.js",
+				"/C/Users/DGeorgiev/Desktop/zona-chat.txt",
+				"/D/Workspace/SoftUni/NodeJs/RealEstate/app/views/index.jade",
+				"/D/Workspace/SoftUni/NodeJs/RealEstate/app/views/layout.jade",
+				"/D/Workspace/SoftUni/NodeJs/RealEstate/config/express.js",
+				"/D/Workspace/ignite-ui/src/js/modules/infragistics.ui.htmleditor.js",
+				"/D/Trash/html-editor/index.html",
+				"/D/Workspace/ignite-ui/src/js/modules/infragistics.ui.validator.js",
+				"/D/Trash/html-editor.html",
+				"/D/Trash/CAS-178368-Z4K9T5/index.html",
+				"/C/Users/DGeorgiev/Desktop/mitko.html",
+				"/D/Workspace/zero-blocks/README.md",
+				"/D/Workspace/zero-blocks/demos/app/navbar/sample.module.ts",
+				"/D/Workspace/zero-blocks/.gitignore",
+				"/D/Workspace/zero-blocks/demos/app/navbar/sample.component.ts",
+				"/D/Workspace/zero-blocks/src/navbar/navbar.scss",
+				"/D/Workspace/zero-blocks/src/navbar/navbar.html",
+				"/D/Workspace/zero-blocks/demos/app/app.routing.ts",
+				"/D/Workspace/zero-blocks/gulpfile.ts",
+				"/D/Workspace/zero-blocks/src/carousel/carousel.ts",
+				"/D/Workspace/zero-blocks/demos/app/navigation-drawer/sample.module.ts",
+				"/D/Workspace/zero-blocks/demos/app/app.module.ts",
+				"/D/Workspace/zero-blocks/src/main.ts",
+				"/D/Workspace/zero-blocks/demos/app/navbar/sample.css",
+				"/D/Workspace/zero-blocks/demos/app/app.component.ts",
+				"/D/Workspace/zero-blocks/demos/app/navbarsample.component.ts",
+				"/D/Workspace/zero-blocks/zero-blocks.sublime-project",
+				"/C/Users/DGeorgiev/Desktop/exam.html",
+				"/C/Users/DGeorgiev/Downloads/70-480 Programming in HTML5 with JavaScript and CSS3   .vce",
+				"/C/Users/DGeorgiev/Desktop/zooombar.html",
 				"/C/Users/DGeorgiev/Desktop/index.html",
-				"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/index.html",
-				"/D/Workspace/IgniteUI/igGrid/igGrid-knockout-realtime/index.html",
-				"/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/js/http-requester.js",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins/fading-message-box/index.html",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins/fading-message-box/message-box.js",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins/tree-view-plugin/tree-view.js",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-plugins/tree-view-plugin/index.html",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Slider/index.html",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Slider/slider.js",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Slider/dejavu.min.js",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Table-Generator/grid.js",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Table-Generator/index.html",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Table-Generator/grid.css",
-				"/D/Workspace/IgniteUI/igDataChart/igDataChart-knockout-with-templating/index.html",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/data-source.js",
-				"/C/index.html",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Background-Color-Switch/index.html",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/Highlight/SublimeHighlight.sublime-settings",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/ExportHtml/ExportHtml.sublime-settings",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Background-Color-Switch",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/BackgroundColorSwitch",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Element-Insertion/index.html",
-				"/D/Workspace/SoftUni/JavaScriptApplications/jQuery-Overview/Element-Insertion",
-				"/D/Trash/BahtiKatilaLek/index.html",
-				"/D/Workspace/SoftUni/JavaScriptOOP/Exam/TravelAgency-Skeleton.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/Exam/TravelAgency.html",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript/get-set.sublime-snippet",
-				"/D/Workspace/IgniteUI/igGrid/igGrid-localization/index.html",
-				"/D/Trash/Test/Restaurant-Manager-Skeleton.js",
-				"/D/Trash/Test/index.html",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
-				"/D/Trash/Test/Restaurant-Manager.docx",
-				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/item.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/container.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/index.html",
-				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/app.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/section.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/to-do-list.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/input-control.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/to-do-dom-element.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/RequireJS/TODOList/js/require.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/js/item.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/index.html",
-				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/css/to-do-list.css",
-				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/js/container.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/js/section.js",
-				"/D/Workspace/SoftUni/JavaScriptOOP/JavaScriptModulesAndPatterns/TODOListModule/js/input-control.js",
-				"/D/Workspace/IgniteUI/igGrid/igGrid-updating-nodejs/server.js",
-				"/D/Workspace/IgniteUI/igGrid/igGrid-updating-nodejs/index.html",
-				"/D/Workspace/IgniteUI/igGrid/igGrid-remote-paging-node/index.html",
-				"/D/Workspace/IgniteUI/igGrid/igGrid-remote-paging-node/server.js",
-				"/D/Trash/index.html",
-				"/D/Trash/hiddencolumns/New folder/index.html",
-				"/D/Trash/hiddencolumns/index.html",
-				"/D/Workspace/IgniteUI/Client-Side Excel Library/sample-1/index.html",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/D/Trash/hiddencolumns/New folder/data-source.js",
-				"/D/Trash/hiddencolumns/New folder/response",
-				"/D/Trash/hiddencolumns/New folder/igGrid_ColumnFixingWithHiddenFieldBugFirstCol.html",
-				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/ExportHtml.sublime-settings",
-				"/D/Trash/hiddencolumns/New folder/js/extensions/igniteui-angular.js",
-				"/D/Trash/hiddencolumns/New folder/js/infragistics.lob.js",
-				"/D/Trash/hiddencolumns/New folder/css/themes/flatly/infragistics.theme.css",
-				"/D/Trash/hiddencolumns/New folder/css/themes/infragistics/framework.less",
-				"/D/Trash/hiddencolumns/New folder/js/infragistics.loader.js",
-				"/D/Trash/hiddencolumns/New folder/js/modules/infragistics.gauge_lineargauge.js",
-				"/D/Trash/hiddencolumns/igGrid_ColumnFixingWithHiddenFieldBugFirstCol.html"
+				"/C/Users/DGeorgiev/Desktop/topic.md",
+				"/D/Trash/CAS-177421-D5G4G7/index.html",
+				"/D/Testing/js/modules/infragistics.ui.toolbar.js",
+				"/D/Testing/index.html",
+				"/D/Testing/js/modules/infragistics.ui.popover.js",
+				"/D/Testing/js/modules/infragistics.ui.toolbarbutton.js",
+				"/D/Testing/js/modules/infragistics.ui.htmleditor.js",
+				"/D/Testing/js/modules/infragistics.ui.combo.js",
+				"/D/Testing/js/modules/infragistics.ui.shared.js",
+				"/D/Testing/js/modules/infragistics.datasource.js",
+				"/D/Testing/js/modules/infragistics.util.js",
+				"/D/Testing/js/modules/infragistics.ui.dialog.js",
+				"/D/Trash/CAS-177334-C7C2V9/rich_text_editor.htm",
+				"/D/Trash/CAS-177334-C7C2V9/index.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/C/inetpub/wwwroot/detect-location/jquery",
+				"/C/inetpub/wwwroot/detect-location/main.js",
+				"/C/inetpub/wwwroot/detect-location/index.html",
+				"/C/Users/DGeorgiev/Downloads/mo (1).txt",
+				"/D/Workspace/detect-location/index.html",
+				"/D/Workspace/detect-location/server.js",
+				"/C/Program Files/Sublime Text 3/main.js",
+				"/C/Program Files/Sublime Text 3/index.html",
+				"/D/Trash/sample-issue/index.html",
+				"/C/Users/DGeorgiev/Desktop/extract-events.js",
+				"/D/Trash/igDataChart-VerticalLine/index.html",
+				"/D/Trash/test.html",
+				"/D/Trash/reg-test/index.html",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.htmleditor.js",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.toolbar.js",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.colorpickersplitbutton.js",
+				"/D/Trash/reg-test/js/modules/infragistics.datasource.js",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.combo.js",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.dialog.js",
+				"/D/Trash/CAS-174344-W6Q0G4/index.html",
+				"/D/Trash/CAS-173961-N6P6T4/index.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/C#/property.sublime-snippet",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/C#/class.sublime-snippet",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/property.sublime-snippet",
+				"/D/Trash/CAS-173799-P9X3K5/index.html",
+				"/D/Trash/CAS-173799-P9X3K5/js/app.js",
+				"/D/Trash/CAS-173799-P9X3K5/test.html",
+				"/D/Trash/CAS-173799-P9X3K5/js/data.js",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/HTML/ignite-ui-2015-2.sublime-snippet",
+				"/D/Workspace/zero-blocks/src/list/list-content.html",
+				"/D/Workspace/zero-blocks/samples/list/app/main.html",
+				"/D/Workspace/zero-blocks/src/list/list.ts",
+				"/D/Trash/test-npm-zero-blocks/app/main.ts",
+				"/D/Trash/test-npm-zero-blocks/app/main.html",
+				"/D/Trash/test-npm-zero-blocks/node_modules/zero-blocks/list/list.js",
+				"/D/Trash/test-npm-zero-blocks/typings.json",
+				"/D/Trash/test-npm-zero-blocks/index.html",
+				"/D/Trash/test-npm-zero-blocks/npm-debug.log",
+				"/D/Trash/test-npm-zero-blocks/app/boot.ts",
+				"/D/Trash/test-npm-zero-blocks/package.json",
+				"/D/Trash/test-npm-zero-blocks/tsconfig.json",
+				"/D/Trash/test-npm-zero-blocks/app/config.js",
+				"/D/Trash/test-npm-zero-blocks/app",
+				"/C/Users/DGeorgiev/Documents/Arduino/boot.ts/boot.ts.ino",
+				"/D/Trash/set-active-el/test.html",
+				"/D/Workspace/zero-blocks/dist/package.json",
+				"/C/Users/DGeorgiev/Desktop/Tag-Helpers.txt",
+				"/D/Trash/215836/index.html",
+				"/D/Trash/CAS-172966-G3X5G9/index.html",
+				"/D/Trash/Huge-Grid/index.html",
+				"/D/Workspace/Angular-Training/ticketing-system/app/components/login/login.component.ts",
+				"/D/Trash/CAS-170151-D2T0H6/index.html",
+				"/D/Trash/graphTimeAxes.html",
+				"/D/Workspace/Angular-Training/ticketing-system/app/services/auth.service.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/models/User/user-login.model.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/models/User/user-register.model.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/models/User/userlogin.model.ts",
+				"/D/Trash/igmap.html",
+				"/D/Workspace/Angular-Training/ticketing-system/app/config.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/index.html",
+				"/D/Workspace/Angular-Training/ticketing-system/package.json",
+				"/D/Workspace/Angular-Training/ticketing-system/app/services/user.service.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/components/login/login.template.html",
+				"/D/Trash/login.html",
+				"/D/Workspace/Angular-Training/ticketing-system/ticketing-system.sublime-project",
+				"/D/Workspace/Angular-Training/ticketing-system/app/components/register/register.component.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/app.component.ts",
+				"/D/Trash/CAS-172280-X7S3M1/index.html",
+				"/D/Trash/pie/index.html",
+				"/D/Workspace/Angular-Training/ticketing-system/design/main.js",
+				"/D/Workspace/Angular-Training/ticketing-system/design/index.html",
+				"/C/Users/DGeorgiev/Documents/Arduino/main.js/main.js.ino",
+				"/D/Trash/CASE-23105T_/sample.html",
+				"/D/Trash/CASE-23105T_/just-input.html",
+				"/D/Trash/CASE-23105T_/index.html",
+				"/D/Trash/nqkav-tapak/index.html",
+				"/D/Trash/nqkav-tapak/script.js",
+				"/D/Workspace/SoftUni/Arduino/project/project.ino",
+				"/D/Workspace/SoftUni/Arduino/motor/motor.ino",
+				"/D/Workspace/Arduino/while/while.ino"
 			],
 			"find":
 			{
-				"height": 43.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 90.0,
 				"where_history":
 				[
 				]
@@ -751,134 +1487,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"\"China\"",
-					"\n\n",
-					"Year",
-					"}",
-					"Contractors",
-					"Employees",
-					"65990",
-					"58410",
-					"55754",
-					"49690",
-					"42110",
-					"39150",
-					"36102",
-					"30542",
-					"25942",
-					"19894",
-					"12504",
-					"6320",
-					"FiscalPeriod",
-					"Contractors",
-					"Employees",
-					":",
-					"\"",
-					"},",
-					"200px",
-					"igHierarchicalGrid",
-					"Col4column",
-					"						",
-					";\n",
-					"Kor",
-					"300",
-					"_show",
-					"miliseconds",
-					"time",
-					"().",
-					"time",
-					"success",
-					"Success",
-					"success",
-					"show",
-					"300",
-					"_fadeOut",
-					"treeView",
-					"default",
-					"this",
-					"list",
-					"item",
-					"list",
-					"el",
-					"listItems",
-					"children",
-					"el",
-					"node",
-					"element",
-					"childrenSelector",
-					"node",
-					"childSelector",
-					"element",
-					"node",
-					"selector",
-					"n",
-					"selector",
-					"nodeType",
-					"ul",
-					"element",
-					"el",
-					"element",
-					"$children",
-					"collapseNode",
-					"collapseChildNodes",
-					"collapseNode",
-					"collapseChildNodes",
-					"<div>",
-					"</div>",
-					"div",
-					"Item",
-					"Subitem",
-					"val",
-					"element",
-					"argument",
-					"hideChNodes",
-					"this",
-					"grid",
-					"Subitem",
-					"p>",
-					"p",
-					"header",
-					"capitaliz",
-					"capitalizeHeaders",
-					"green",
-					"column",
-					"header",
-					"$th",
-					"th",
-					"i",
-					"header",
-					"tr",
-					"th",
-					"DEFAULT_HEADER_COLOR",
-					"headerColor",
-					"DEFAULT_HEADER_COLOR",
-					"DEFAULT_HEADERS_COLOR",
-					"$_element",
-					"th",
-					"debugger",
-					"getEle",
+					"public",
+					"Navbar",
+					"components",
+					"style",
+					" \n",
+					"perimeter",
+					"isDirty: f",
+					"rezing",
+					"// Get",
+					"//Set",
+					"//Get",
+					"//Initialize",
 					"       ",
 					"          ",
-					"infragistics.chart_categorychart.js",
-					"infragistics.datasource-en.js",
-					"http://www.igniteui.com/js/external",
-					"./",
-					".",
-					"http://cdn-na.infragistics.com/igniteui/2014.2/latest/",
-					"ko.observable(",
+					"idea",
+					"http://cdn-na.infragistics.com/igniteui/2016.2/latest",
+					"/",
+					"percent",
+					"\\",
+					"igniteui\\",
+					"\\",
+					"http://cdn-na.infragistics.com/",
+					"http://www.igniteui.com/js/",
+					"\\",
+					"expression",
+					"<input",
+					"<span></span>",
+					"input",
+					"<div>",
+					"</div>",
+					"<div>",
+					"Zero Blocks",
+					"new object[] {\n    Strings.Trim(Convert.ToString(",
+					"CURRENT_VIEW",
+					"isStackHisoryEmpty",
+					"also",
+					"false",
+					"амбулаторен",
+					"kur",
+					"currentView",
+					"'",
+					"div",
+					"botton",
+					"private",
+					"navbarsample",
+					"NavbarSampleModule",
+					"NavigationDrawerModule",
+					"NavigationDrawer",
+					"NavigationDrawerModule",
+					"NavbarModule",
+					"NavDrawerSampleComponent",
+					"navigation",
+					"\";\n",
+					"avatar",
+					"ListSampleComponent",
+					"AvatarSampleComponent",
+					"int",
+					"\\r\\n",
+					"  ",
+					"\\\"",
 					"\"",
-					"  	",
-					"]",
 					"[",
-					"\"ProductNumber\"",
-					"table",
-					"WebDataGrid1",
-					"key",
-					"column",
-					"setColumns",
-					"columns",
-					"_Columns",
-					"first_argument"
+					"]",
+					"http://cdn-na.infragistics.com/igniteui/2016.1/latest",
+					"\"\"",
+					"=",
+					".",
+					"WindowResponse",
+					"(",
+					"DataChart",
+					"(",
+					"DataChart",
+					"\t",
+					"_",
+					"  ",
+					"\"",
+					"TestingTagHelpers",
+					"\"",
+					"xAxis",
+					"currentSeries",
+					"newSeriecurrentSeriess",
+					"currentSeries",
+					"Things",
+					"type=\"checkbox\"",
+					"event",
+					"selector",
+					"input",
+					"type=\"checkbox\">",
+					"Chart-",
+					",",
+					"\\\n",
+					"\\",
+					"datasource",
+					"dialog",
+					"toolbar",
+					"*",
+					" *",
+					"splitbutton",
+					"infragistics",
+					"popover",
+					"toolbarbutton",
+					"shared",
+					"./vendors/infragistics/IgniteUI/",
+					"http://cdn-na.infragistics.com/igniteui/2016.1/latest/",
+					"toolbar",
+					"http://cdn-na.infragistics.com/igniteui/2016.1/latest/",
+					"2016.1",
+					"\"",
+					"}\n\t{",
+					"ResponsiveTagHelper",
+					"/// <summary>",
+					"_responsiveModeChanged",
+					"ResponsiveModeChanged",
+					"const",
+					"event",
+					"const",
+					"=",
+					"public",
+					"///",
+					"/// <summary>",
+					"FilterDropDownClosed",
+					"const",
+					"public",
+					"/// ",
+					")(",
+					"/// <summary>",
+					"ChildRowCollapsed",
+					"EventAttributeName"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -886,6 +1622,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -893,268 +1630,246 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "D:\\Workspace\\SoftUni\\JavaScriptApplications\\baas-and-parse.com"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/D/Workspace/SoftUni/JavaScriptApplications/baas-and-parse.com/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 678,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										651,
-										651
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 102.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 22.0
 			},
 			"input":
 			{
 				"height": 35.0
 			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
 			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 424.0
-			},
-			"output.find_results":
+			"output.doc":
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,661,1304,-9,2122",
-			"project": "",
+			"output.errorlist":
+			{
+				"height": 94.0
+			},
+			"output.exec":
+			{
+				"height": 226.0
+			},
+			"output.find_results":
+			{
+				"height": 100.0
+			},
+			"output.stino_log":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 80.0
+				"height": 40.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
+						"navbarsam",
+						"demos\\app\\navbar\\sample.component.ts"
+					],
+					[
+						"gul",
+						"gulpfile.ts"
+					],
+					[
+						"routin",
+						"demos\\app\\app.routing.ts"
+					],
+					[
+						"navbarsamplecomponent",
+						"demos\\app\\navbar\\sample.component.ts"
+					],
+					[
+						"sample.modul",
+						"demos\\app\\navbar\\sample.module.ts"
+					],
+					[
+						"navbarco",
+						"demos\\app\\navbarsample.component.ts"
+					],
+					[
+						"popover",
+						"js\\modules\\infragistics.ui.popover.js"
+					],
+					[
+						"toolbar",
+						"js\\modules\\infragistics.ui.toolbar.js"
+					],
+					[
+						"toolbarbu",
+						"js\\modules\\infragistics.ui.toolbarbutton.js"
+					],
+					[
+						"shared",
+						"js\\modules\\infragistics.ui.shared.js"
+					],
+					[
+						"datasou",
+						"js\\modules\\infragistics.datasource.js"
+					],
+					[
+						"util",
+						"js\\modules\\infragistics.util.js"
+					],
+					[
+						"combo",
+						"js\\modules\\infragistics.ui.combo.js"
+					],
+					[
+						"dial",
+						"js\\modules\\infragistics.ui.dialog.js"
+					],
+					[
+						"htmleditor",
+						"js\\modules\\infragistics.ui.htmleditor.js"
+					],
+					[
+						"colorpicker",
+						"js\\modules\\infragistics.ui.colorpickersplitbutton.js"
+					],
+					[
+						"colorpickersplitbutton",
+						"js\\modules\\infragistics.ui.colorpickersplitbutton.js"
+					],
+					[
+						"datasource",
+						"js\\modules\\infragistics.datasource.js"
+					],
+					[
+						"infragistics.ui.toolbar.js",
+						"js\\modules\\infragistics.ui.toolbar.js"
+					],
+					[
+						"infragistics.ui.dialog.js",
+						"js\\modules\\infragistics.ui.dialog.js"
+					],
+					[
+						"infragistics.ui.combo.js",
+						"js\\modules\\infragistics.ui.combo.js"
+					],
+					[
+						"infragistics.ui.htmleditor.js",
+						"js\\modules\\infragistics.ui.htmleditor.js"
+					],
+					[
+						"regi",
+						"app\\components\\register\\register.component.ts"
+					],
+					[
+						"pa",
+						"package.json"
+					],
+					[
+						"pluga",
+						"wp-includes\\pluggable.php"
+					],
+					[
+						"infragistics.css",
+						"html\\Content\\Infragistics\\css\\structure\\infragistics.css"
+					],
+					[
+						"infragistics.dv.js",
+						"html\\Scripts\\Infragistics\\js\\infragistics.dv.js"
+					],
+					[
+						"rou",
+						"Config\\routes.php"
+					],
+					[
+						"",
+						"infragistics.ui.grid.framework.js"
+					],
+					[
+						"da",
+						"js\\data-source.js"
+					],
+					[
+						"main",
+						"main.css"
+					],
+					[
+						"pro",
+						"igGrid\\excel-exporting-with-column-hiding\\products.js"
+					],
+					[
+						"pr",
+						"kendo-grid\\products.js"
+					],
+					[
+						"p",
+						"kendo-grid\\products.js"
+					],
+					[
 						"inde",
-						"tree-view-plugin\\index.html"
+						"index.html"
+					],
+					[
+						"app",
+						"app\\css\\app.css"
+					],
+					[
+						"boostra",
+						"app\\css\\bootstrap.min.css"
+					],
+					[
+						"app.js",
+						"app\\js\\app.js"
+					],
+					[
+						"app.",
+						"app\\css\\app.css"
+					],
+					[
+						"appj",
+						"app\\js\\app.js"
+					],
+					[
+						"in",
+						"AngularAds\\app\\index.html"
+					],
+					[
+						"vide",
+						"js\\app\\models\\video-model.js"
+					],
+					[
+						"ind",
+						"VideoSystem\\index.html"
+					],
+					[
+						"new",
+						"VideoSystem\\js\\app\\controllers\\new-video-controller.js"
+					],
+					[
+						"home",
+						"VideoSystem\\views\\home.html"
+					],
+					[
+						"st",
+						"StudentPage\\app\\controllers\\student-controller.js"
+					],
+					[
+						"con",
+						"StudentPage\\app\\controllers\\student-controller.js"
+					],
+					[
+						"s",
+						"StudentPage\\app\\controllers\\StudentController.js"
+					],
+					[
+						"co",
+						"StudentPage\\app\\controllers\\StudentController.js"
+					],
+					[
+						"testap",
+						"TypeScript-AMD-Boilerplate-master\\src\\assets\\scripts\\TestApp.ts"
 					],
 					[
 						"tre",
@@ -1194,6 +1909,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1202,6 +1918,1975 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 299.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 802.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"text",
+						"textarea\tTag"
+					],
+					[
+						"tex",
+						"textarea\tTag"
+					],
+					[
+						"is",
+						"isDivisibleBy5And7"
+					],
+					[
+						"i",
+						"isDivisibleBy7"
+					],
+					[
+						"fw",
+						"fw-b\tfont-weight: bold;"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"imp",
+						"imports\tproperty"
+					],
+					[
+						"styl",
+						"styleUrls\tproperty"
+					],
+					[
+						"Navba",
+						"NavbarSampleComponent\talias"
+					],
+					[
+						"sample",
+						"sample.html"
+					],
+					[
+						"ig",
+						"igui\tignite-ui-2015-2"
+					],
+					[
+						"new",
+						"newSeries〔variable〕"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"typ",
+						"type=〔attribute〕"
+					],
+					[
+						"scr",
+						"script\tTag"
+					],
+					[
+						"sc",
+						"script\tTag"
+					],
+					[
+						"mo",
+						"modules"
+					],
+					[
+						"data",
+						"data-bind"
+					],
+					[
+						"enable",
+						"enableComboState"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"lic",
+						"lic_form"
+					],
+					[
+						"get",
+						"getElementsByName〔function〕"
+					],
+					[
+						"accep",
+						"accept-agreeement-button"
+					],
+					[
+						"sca",
+						"scatter"
+					],
+					[
+						"scatte",
+						"scatterLine"
+					],
+					[
+						"cart",
+						"chartBubble"
+					],
+					[
+						"Tr",
+						"TreeDragAndDropSettings"
+					],
+					[
+						"even",
+						"eventName"
+					],
+					[
+						"ev",
+						"eventNameUpperSnakeCase"
+					],
+					[
+						"cha",
+						"character〔variable〕"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"t",
+						"infragistics.ui.toolbarbutton.css"
+					],
+					[
+						"foot",
+						"footerElement〔variable〕"
+					],
+					[
+						"first",
+						"firstNameColumn〔variable〕"
+					],
+					[
+						"ht",
+						"html\t.html()"
+					],
+					[
+						"co",
+						"content\tTag"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"c",
+						"c\tclass"
+					],
+					[
+						"p",
+						"p\tproperty"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"ze",
+						"zero-blocks/"
+					],
+					[
+						"ig1",
+						"ig152\tignite-ui-2015-2"
+					],
+					[
+						"bor",
+						"border-collapse"
+					],
+					[
+						"bo",
+						"bold"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"sel",
+						"selected"
+					],
+					[
+						"to",
+						"toggleClass〔function〕"
+					],
+					[
+						"pie",
+						"pielegend"
+					],
+					[
+						"pas",
+						"passwordConfirm\tparameter"
+					],
+					[
+						"exp",
+						"export\tkeyword"
+					],
+					[
+						"se",
+						"sessionStorage\tproperty"
+					],
+					[
+						"func",
+						"function\tkeyword"
+					],
+					[
+						"im",
+						"import\timports a module …"
+					],
+					[
+						"sem",
+						"semantic.json"
+					],
+					[
+						"remov",
+						"removeClass〔function〕"
+					],
+					[
+						"GR",
+						"GREEN_LED"
+					],
+					[
+						"anal",
+						"analogWrite\tArduino analogWrite"
+					],
+					[
+						"LE",
+						"LEFT_TURN_LIGHT_SWITCH"
+					],
+					[
+						"mi",
+						"millis\tArduino millis()"
+					],
+					[
+						"l",
+						"LEFT_TURN_LIGHT"
+					],
+					[
+						"lo",
+						"loop\tArduino loop"
+					],
+					[
+						"uns",
+						"unselectable=\"on"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"ig15",
+						"ig152\tignite-ui-2015-2"
+					],
+					[
+						"po",
+						"POTENTIOMETER"
+					],
+					[
+						"R",
+						"RED_LED1"
+					],
+					[
+						"YE",
+						"YELLOW_LED1"
+					],
+					[
+						"g",
+						"GREEN_LED1"
+					],
+					[
+						"digi",
+						"digitalWrite\tArduino digitalWrite"
+					],
+					[
+						"sele",
+						"select\t.select()"
+					],
+					[
+						"selec",
+						"selectedColors"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"DATA",
+						"DATA1"
+					],
+					[
+						"cel",
+						"cellValue"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"form",
+						"formula"
+					],
+					[
+						"cont",
+						"content: 〔property〕"
+					],
+					[
+						"app",
+						"append\t.append()"
+					],
+					[
+						"conte",
+						"context"
+					],
+					[
+						"hei",
+						"height\t.height()"
+					],
+					[
+						"css",
+						"css\t.css() - single"
+					],
+					[
+						"initial",
+						"initialSelectedItems"
+					],
+					[
+						"type",
+						"type"
+					],
+					[
+						"opti",
+						"optionNamePascalCase"
+					],
+					[
+						"option",
+						"optionNameParamCase"
+					],
+					[
+						"opt",
+						"optionNameParamCase"
+					],
+					[
+						"htmle",
+						"htmleditor"
+					],
+					[
+						"chun",
+						"chunkSize"
+					],
+					[
+						"Rec",
+						"Records"
+					],
+					[
+						"rec",
+						"RecordsCountKey"
+					],
+					[
+						"J",
+						"JSONData"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"las",
+						"lastName〔variable〕"
+					],
+					[
+						"last",
+						"lastName"
+					],
+					[
+						"firs",
+						"firstName〔variable〕"
+					],
+					[
+						"cli",
+						"click"
+					],
+					[
+						"setp",
+						"setposition〔function〕"
+					],
+					[
+						"tu",
+						"turtle〔module〕"
+					],
+					[
+						"colu",
+						"columnKey"
+					],
+					[
+						"ap",
+						"append\t.append()"
+					],
+					[
+						"canva",
+						"canvases"
+					],
+					[
+						"sto",
+						"sto\tsetTimeout"
+					],
+					[
+						"htm",
+						"html5\thtml5"
+					],
+					[
+						"debu",
+						"debugger〔keyword〕"
+					],
+					[
+						"item",
+						"itemBrush"
+					],
+					[
+						"ren",
+						"renderInfo〔argument〕"
+					],
+					[
+						"wor",
+						"worksheet"
+					],
+					[
+						"work",
+						"worksheets"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"get_",
+						"get_row"
+					],
+					[
+						"hid",
+						"hideColumn"
+					],
+					[
+						"child",
+						"childGrid〔variable〕"
+					],
+					[
+						"row",
+						"rowIndex"
+					],
+					[
+						"gr",
+						"gridView"
+					],
+					[
+						"grid",
+						"gridView〔variable〕"
+					],
+					[
+						"sty",
+						"style\tTag"
+					],
+					[
+						"toolti",
+						"tooltipBottom"
+					],
+					[
+						"tooltipHe",
+						"tooltipHeight"
+					],
+					[
+						"windo",
+						"windowHeight〔variable〕"
+					],
+					[
+						"win",
+						"windowHeight〔variable〕"
+					],
+					[
+						"char",
+						"chart"
+					],
+					[
+						"prop",
+						"property"
+					],
+					[
+						"compon",
+						"components〔variable〕"
+					],
+					[
+						"compone",
+						"component〔variable〕"
+					],
+					[
+						"tre",
+						"trendLineDataSource〔variable〕"
+					],
+					[
+						"Date",
+						"DateAxis"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>Document</title>\n\t<style type=\"text/css\">\n\t\tinput {\n\t\t\theight: 150px;\n\t\t}\n\t</style>\n</head>\n<body>\n\t<td>\n\t\t<textarea></textarea>\n\t</td>\n</body>\n</html>",
+					"file": "/C/Users/DGeorgiev/Desktop/tashaci.html",
+					"file_size": 199,
+					"file_write_time": 131228282020783911,
+					"settings":
+					{
+						"buffer_size": 223,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Angular 2 lite-server",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Angular 2 lite-server",
+						""
+					]
+				],
+				[
+					[
+						[
+							"List",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"List",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/TypeScript/TypeScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/nodejs.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/arduino-cli/arduino-cli.sublime-build",
+							""
+						],
+						[
+							"Packages/arduino-cli/arduino-cli.sublime-build",
+							"just build"
+						],
+						[
+							"Packages/arduino-cli/arduino-cli.sublime-build",
+							"build and upload"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/nodejs.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/arduino-cli/arduino-cli.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"forma",
+						"Format: Javascript"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"docb",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"typescr",
+						"TypeScript: Show Error List"
+					],
+					[
+						"fo",
+						"TypeScript: Format Document"
+					],
+					[
+						"for",
+						"TypeScript: Format Document"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"C#",
+						"Set Syntax: C#"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"h",
+						"Set Syntax: HTML"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"sass",
+						"Build With: SASS"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"sass\t",
+						"Set Syntax: Sass"
+					],
+					[
+						"typescript",
+						"TypeScript: GoTo Definition"
+					],
+					[
+						"form",
+						"Format: Javascript"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"yth",
+						"Set Syntax: Python"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"hm",
+						"Set Syntax: HTML"
+					],
+					[
+						"das",
+						"Convert Case: dash-case"
+					],
+					[
+						"dash",
+						"Convert Case: dash-case"
+					],
+					[
+						"conver sp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"preview",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"set syntax ma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"instal ",
+						"Package Control: Install Package"
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"up",
+						"Convert Case: Upper Case"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"fake",
+						"Fake: it!"
+					],
+					[
+						"l",
+						"Convert Case: Lower Case"
+					],
+					[
+						"lo",
+						"Convert Case: Lower Case"
+					],
+					[
+						"da",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"co",
+						"Convert Case: dash-case"
+					],
+					[
+						"ower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"fakei",
+						"Fake: it!"
+					],
+					[
+						"fake coun",
+						"Fake: country"
+					],
+					[
+						"fak",
+						"Fake: it!"
+					],
+					[
+						"FO",
+						"Format: Javascript"
+					],
+					[
+						"tex",
+						"Fake: text"
+					],
+					[
+						"bool",
+						"Fake: boolean"
+					],
+					[
+						"fake co",
+						"Fake: country"
+					],
+					[
+						"fake use",
+						"Fake: user_name"
+					],
+					[
+						"inde",
+						"Fake: index"
+					],
+					[
+						"Low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"d",
+						"Convert Case: dash-case"
+					],
+					[
+						"jav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"u",
+						"Convert Case: Upper Case"
+					],
+					[
+						"pas",
+						"Convert Case: PascalCase"
+					],
+					[
+						"case",
+						"Convert Case: camelCase"
+					],
+					[
+						"conver",
+						"Convert Case: dash-case"
+					],
+					[
+						"snake",
+						"Convert Case: snake_case"
+					],
+					[
+						"pascal",
+						"Convert Case: PascalCase"
+					],
+					[
+						"cas",
+						"Convert Case: PascalCase"
+					],
+					[
+						"SQ",
+						"Set Syntax: SQL"
+					],
+					[
+						"sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"snak",
+						"Convert Case: snake_case"
+					],
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"c",
+						"Convert Case: snake_case"
+					],
+					[
+						"m",
+						"Set Syntax: Markdown"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"asp",
+						"Set Syntax: ASP"
+					],
+					[
+						"fa",
+						"Fake: it!"
+					],
+					[
+						"fakeInd",
+						"Fake: index"
+					],
+					[
+						"fake ind",
+						"Fake: index"
+					],
+					[
+						"lorem",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"prop",
+						"Snippet: property"
+					],
+					[
+						"class",
+						"Snippet: class"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"xm",
+						"Set Syntax: XML"
+					],
+					[
+						"fake it",
+						"Fake: it!"
+					],
+					[
+						"ind",
+						"Fake: index"
+					],
+					[
+						"fakeind",
+						"Fake: index"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"eval",
+						"Emmet: Evaluate Math Expression"
+					],
+					[
+						"fakeit",
+						"Fake: it!"
+					],
+					[
+						"fakeN",
+						"Fake: name"
+					],
+					[
+						"in",
+						"Fake: index"
+					],
+					[
+						"fake na",
+						"Fake: name"
+					],
+					[
+						"fake inde",
+						"Fake: index"
+					],
+					[
+						"format",
+						"TypeScript: Format Document"
+					],
+					[
+						"user",
+						"Fake: user_name"
+					],
+					[
+						"on",
+						"Snippet: .on()"
+					],
+					[
+						"meth",
+						"Snippet: class method"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"f",
+						"Fake: it!"
+					],
+					[
+						"fake in",
+						"Fake: random_int"
+					],
+					[
+						"fakeint",
+						"Fake: random_int"
+					],
+					[
+						"aru",
+						"Set Syntax: Arduino"
+					],
+					[
+						"ardu",
+						"Set Syntax: Arduino"
+					],
+					[
+						"int ",
+						"Fake: random_int"
+					],
+					[
+						"build",
+						"Build With: arduino-cli - build and upload"
+					],
+					[
+						"ar",
+						"Set Syntax: Arduino"
+					],
+					[
+						"ard",
+						"Set Syntax: Arduino"
+					],
+					[
+						"use",
+						"Fake: user_name"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"ig",
+						"Snippet: ignite-ui-2015-2"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"les",
+						"Set Syntax: LESS"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"type ",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"eval ex",
+						"Emmet: Evaluate Math Expression"
+					],
+					[
+						"termi",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"termina",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"terminal",
+						"Terminal: Open"
+					],
+					[
+						"node",
+						"Build With: nodejs"
+					],
+					[
+						"snip",
+						"Snippet: __magic__"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"pyt",
+						"Set Syntax: Python"
+					],
+					[
+						"eva",
+						"Emmet: Evaluate Math Expression"
+					],
+					[
+						"faked",
+						"Fake: date_time"
+					],
+					[
+						"e",
+						"Evaluate: Evaluate Selections"
+					],
+					[
+						"express",
+						"Emmet: Evaluate Math Expression"
+					],
+					[
+						"fake ",
+						"Fake: it!"
+					],
+					[
+						"fake da",
+						"Fake: date_time"
+					],
+					[
+						"fake i",
+						"Fake: it!"
+					],
+					[
+						"fake int",
+						"Fake: random_int"
+					],
+					[
+						"time",
+						"Fake: time"
+					],
+					[
+						"dat",
+						"Fake: date_time"
+					],
+					[
+						"fakein",
+						"Fake: random_int"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"view.run_command(\"example\")",
+					"close()",
+					"exit()",
+					"exit",
+					"import antigravity",
+					"import antigrafity",
+					"python",
+					"2+2",
+					"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Trash/CAS-178661-T6C6N0/index.html",
+				"/D/Workspace/zero-blocks/src/navbar/navbar.ts",
+				"/D/Workspace/zero-blocks/demos/app/navbar/sample.html",
+				"/D/Workspace/zero-blocks/src/main.js",
+				"/C/Users/DGeorgiev/Desktop/zona-chat.txt",
+				"/D/Workspace/SoftUni/NodeJs/RealEstate/app/views/index.jade",
+				"/D/Workspace/SoftUni/NodeJs/RealEstate/app/views/layout.jade",
+				"/D/Workspace/SoftUni/NodeJs/RealEstate/config/express.js",
+				"/D/Workspace/ignite-ui/src/js/modules/infragistics.ui.htmleditor.js",
+				"/D/Trash/html-editor/index.html",
+				"/D/Workspace/ignite-ui/src/js/modules/infragistics.ui.validator.js",
+				"/D/Trash/html-editor.html",
+				"/D/Trash/CAS-178368-Z4K9T5/index.html",
+				"/C/Users/DGeorgiev/Desktop/mitko.html",
+				"/D/Workspace/zero-blocks/README.md",
+				"/D/Workspace/zero-blocks/demos/app/navbar/sample.module.ts",
+				"/D/Workspace/zero-blocks/.gitignore",
+				"/D/Workspace/zero-blocks/demos/app/navbar/sample.component.ts",
+				"/D/Workspace/zero-blocks/src/navbar/navbar.scss",
+				"/D/Workspace/zero-blocks/src/navbar/navbar.html",
+				"/D/Workspace/zero-blocks/demos/app/app.routing.ts",
+				"/D/Workspace/zero-blocks/gulpfile.ts",
+				"/D/Workspace/zero-blocks/src/carousel/carousel.ts",
+				"/D/Workspace/zero-blocks/demos/app/navigation-drawer/sample.module.ts",
+				"/D/Workspace/zero-blocks/demos/app/app.module.ts",
+				"/D/Workspace/zero-blocks/src/main.ts",
+				"/D/Workspace/zero-blocks/demos/app/navbar/sample.css",
+				"/D/Workspace/zero-blocks/demos/app/app.component.ts",
+				"/D/Workspace/zero-blocks/demos/app/navbarsample.component.ts",
+				"/D/Workspace/zero-blocks/zero-blocks.sublime-project",
+				"/C/Users/DGeorgiev/Desktop/exam.html",
+				"/C/Users/DGeorgiev/Downloads/70-480 Programming in HTML5 with JavaScript and CSS3   .vce",
+				"/C/Users/DGeorgiev/Desktop/zooombar.html",
+				"/C/Users/DGeorgiev/Desktop/index.html",
+				"/C/Users/DGeorgiev/Desktop/topic.md",
+				"/D/Trash/CAS-177421-D5G4G7/index.html",
+				"/D/Testing/js/modules/infragistics.ui.toolbar.js",
+				"/D/Testing/index.html",
+				"/D/Testing/js/modules/infragistics.ui.popover.js",
+				"/D/Testing/js/modules/infragistics.ui.toolbarbutton.js",
+				"/D/Testing/js/modules/infragistics.ui.htmleditor.js",
+				"/D/Testing/js/modules/infragistics.ui.combo.js",
+				"/D/Testing/js/modules/infragistics.ui.shared.js",
+				"/D/Testing/js/modules/infragistics.datasource.js",
+				"/D/Testing/js/modules/infragistics.util.js",
+				"/D/Testing/js/modules/infragistics.ui.dialog.js",
+				"/D/Trash/CAS-177334-C7C2V9/rich_text_editor.htm",
+				"/D/Trash/CAS-177334-C7C2V9/index.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/C/inetpub/wwwroot/detect-location/jquery",
+				"/C/inetpub/wwwroot/detect-location/main.js",
+				"/C/inetpub/wwwroot/detect-location/index.html",
+				"/C/Users/DGeorgiev/Downloads/mo (1).txt",
+				"/D/Workspace/detect-location/index.html",
+				"/D/Workspace/detect-location/server.js",
+				"/C/Program Files/Sublime Text 3/main.js",
+				"/C/Program Files/Sublime Text 3/index.html",
+				"/D/Trash/sample-issue/index.html",
+				"/C/Users/DGeorgiev/Desktop/extract-events.js",
+				"/D/Trash/igDataChart-VerticalLine/index.html",
+				"/D/Trash/test.html",
+				"/D/Trash/reg-test/index.html",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.htmleditor.js",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.toolbar.js",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.colorpickersplitbutton.js",
+				"/D/Trash/reg-test/js/modules/infragistics.datasource.js",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.combo.js",
+				"/D/Trash/reg-test/js/modules/infragistics.ui.dialog.js",
+				"/D/Trash/CAS-174344-W6Q0G4/index.html",
+				"/D/Trash/CAS-173961-N6P6T4/index.html",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/C#/property.sublime-snippet",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/C#/class.sublime-snippet",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/property.sublime-snippet",
+				"/D/Trash/CAS-173799-P9X3K5/index.html",
+				"/D/Trash/CAS-173799-P9X3K5/js/app.js",
+				"/D/Trash/CAS-173799-P9X3K5/test.html",
+				"/D/Trash/CAS-173799-P9X3K5/js/data.js",
+				"/C/Users/DGeorgiev/AppData/Roaming/Sublime Text 3/Packages/User/HTML/ignite-ui-2015-2.sublime-snippet",
+				"/D/Workspace/zero-blocks/src/list/list-content.html",
+				"/D/Workspace/zero-blocks/samples/list/app/main.html",
+				"/D/Workspace/zero-blocks/src/list/list.ts",
+				"/D/Trash/test-npm-zero-blocks/app/main.ts",
+				"/D/Trash/test-npm-zero-blocks/app/main.html",
+				"/D/Trash/test-npm-zero-blocks/node_modules/zero-blocks/list/list.js",
+				"/D/Trash/test-npm-zero-blocks/typings.json",
+				"/D/Trash/test-npm-zero-blocks/index.html",
+				"/D/Trash/test-npm-zero-blocks/npm-debug.log",
+				"/D/Trash/test-npm-zero-blocks/app/boot.ts",
+				"/D/Trash/test-npm-zero-blocks/package.json",
+				"/D/Trash/test-npm-zero-blocks/tsconfig.json",
+				"/D/Trash/test-npm-zero-blocks/app/config.js",
+				"/D/Trash/test-npm-zero-blocks/app",
+				"/C/Users/DGeorgiev/Documents/Arduino/boot.ts/boot.ts.ino",
+				"/D/Trash/set-active-el/test.html",
+				"/D/Workspace/zero-blocks/dist/package.json",
+				"/C/Users/DGeorgiev/Desktop/Tag-Helpers.txt",
+				"/D/Trash/215836/index.html",
+				"/D/Trash/CAS-172966-G3X5G9/index.html",
+				"/D/Trash/Huge-Grid/index.html",
+				"/D/Workspace/Angular-Training/ticketing-system/app/components/login/login.component.ts",
+				"/D/Trash/CAS-170151-D2T0H6/index.html",
+				"/D/Trash/graphTimeAxes.html",
+				"/D/Workspace/Angular-Training/ticketing-system/app/services/auth.service.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/models/User/user-login.model.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/models/User/user-register.model.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/models/User/userlogin.model.ts",
+				"/D/Trash/igmap.html",
+				"/D/Workspace/Angular-Training/ticketing-system/app/config.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/index.html",
+				"/D/Workspace/Angular-Training/ticketing-system/package.json",
+				"/D/Workspace/Angular-Training/ticketing-system/app/services/user.service.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/components/login/login.template.html",
+				"/D/Trash/login.html",
+				"/D/Workspace/Angular-Training/ticketing-system/ticketing-system.sublime-project",
+				"/D/Workspace/Angular-Training/ticketing-system/app/components/register/register.component.ts",
+				"/D/Workspace/Angular-Training/ticketing-system/app/app.component.ts",
+				"/D/Trash/CAS-172280-X7S3M1/index.html",
+				"/D/Trash/pie/index.html",
+				"/D/Workspace/Angular-Training/ticketing-system/design/main.js",
+				"/D/Workspace/Angular-Training/ticketing-system/design/index.html",
+				"/C/Users/DGeorgiev/Documents/Arduino/main.js/main.js.ino",
+				"/D/Trash/CASE-23105T_/sample.html",
+				"/D/Trash/CASE-23105T_/just-input.html",
+				"/D/Trash/CASE-23105T_/index.html",
+				"/D/Trash/nqkav-tapak/index.html",
+				"/D/Trash/nqkav-tapak/script.js",
+				"/D/Workspace/SoftUni/Arduino/project/project.ino",
+				"/D/Workspace/SoftUni/Arduino/motor/motor.ino"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"<form action=\"\">",
+					"validator",
+					"notifier",
+					"popover",
+					"scroll",
+					"infragistics",
+					"datasource",
+					"util",
+					"validator",
+					"infragistics",
+					"http://cdn-na.infragistics.com/igniteui/2016.1/latest/",
+					"2016.2",
+					"ReferringPhysicianId",
+					"combo",
+					"ReferringPhysicianId",
+					"public",
+					"Navbar",
+					"components",
+					"style",
+					" \n",
+					"perimeter",
+					"isDirty: f",
+					"rezing",
+					"// Get",
+					"//Set",
+					"//Get",
+					"//Initialize",
+					"       ",
+					"          ",
+					"idea",
+					"http://cdn-na.infragistics.com/igniteui/2016.2/latest",
+					"/",
+					"percent",
+					"\\",
+					"igniteui\\",
+					"\\",
+					"http://cdn-na.infragistics.com/",
+					"http://www.igniteui.com/js/",
+					"\\",
+					"expression",
+					"<input",
+					"<span></span>",
+					"input",
+					"<div>",
+					"</div>",
+					"<div>",
+					"Zero Blocks",
+					"new object[] {\n    Strings.Trim(Convert.ToString(",
+					"CURRENT_VIEW",
+					"isStackHisoryEmpty",
+					"also",
+					"false",
+					"амбулаторен",
+					"kur",
+					"currentView",
+					"'",
+					"div",
+					"botton",
+					"private",
+					"navbarsample",
+					"NavbarSampleModule",
+					"NavigationDrawerModule",
+					"NavigationDrawer",
+					"NavigationDrawerModule",
+					"NavbarModule",
+					"NavDrawerSampleComponent",
+					"navigation",
+					"\";\n",
+					"avatar",
+					"ListSampleComponent",
+					"AvatarSampleComponent",
+					"int",
+					"\\r\\n",
+					"  ",
+					"\\\"",
+					"\"",
+					"[",
+					"]",
+					"http://cdn-na.infragistics.com/igniteui/2016.1/latest",
+					"\"\"",
+					"=",
+					".",
+					"WindowResponse",
+					"(",
+					"DataChart",
+					"(",
+					"DataChart",
+					"\t",
+					"_",
+					"  ",
+					"\"",
+					"TestingTagHelpers",
+					"\"",
+					"xAxis",
+					"currentSeries",
+					"newSeriecurrentSeriess",
+					"currentSeries",
+					"Things",
+					"type=\"checkbox\"",
+					"event",
+					"selector",
+					"input",
+					"type=\"checkbox\">",
+					"Chart-",
+					",",
+					"\\\n",
+					"\\",
+					"datasource",
+					"dialog",
+					"toolbar",
+					"*",
+					" *",
+					"splitbutton",
+					"infragistics",
+					"popover",
+					"toolbarbutton",
+					"shared",
+					"./vendors/infragistics/IgniteUI/",
+					"http://cdn-na.infragistics.com/igniteui/2016.1/latest/",
+					"toolbar",
+					"http://cdn-na.infragistics.com/igniteui/2016.1/latest/",
+					"2016.1",
+					"\"",
+					"}\n\t{",
+					"ResponsiveTagHelper",
+					"/// <summary>",
+					"_responsiveModeChanged",
+					"ResponsiveModeChanged"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/DGeorgiev/Desktop/tashaci.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 223,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										188,
+										188
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												191,
+												199
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												180,
+												188
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.errorlist":
+			{
+				"height": 94.0
+			},
+			"output.exec":
+			{
+				"height": 226.0
+			},
+			"output.find_results":
+			{
+				"height": 100.0
+			},
+			"output.stino_log":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,600,26,26,844",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"navbarsam",
+						"demos\\app\\navbar\\sample.component.ts"
+					],
+					[
+						"gul",
+						"gulpfile.ts"
+					],
+					[
+						"routin",
+						"demos\\app\\app.routing.ts"
+					],
+					[
+						"navbarsamplecomponent",
+						"demos\\app\\navbar\\sample.component.ts"
+					],
+					[
+						"sample.modul",
+						"demos\\app\\navbar\\sample.module.ts"
+					],
+					[
+						"navbarco",
+						"demos\\app\\navbarsample.component.ts"
+					],
+					[
+						"popover",
+						"js\\modules\\infragistics.ui.popover.js"
+					],
+					[
+						"toolbar",
+						"js\\modules\\infragistics.ui.toolbar.js"
+					],
+					[
+						"toolbarbu",
+						"js\\modules\\infragistics.ui.toolbarbutton.js"
+					],
+					[
+						"shared",
+						"js\\modules\\infragistics.ui.shared.js"
+					],
+					[
+						"datasou",
+						"js\\modules\\infragistics.datasource.js"
+					],
+					[
+						"util",
+						"js\\modules\\infragistics.util.js"
+					],
+					[
+						"combo",
+						"js\\modules\\infragistics.ui.combo.js"
+					],
+					[
+						"dial",
+						"js\\modules\\infragistics.ui.dialog.js"
+					],
+					[
+						"htmleditor",
+						"js\\modules\\infragistics.ui.htmleditor.js"
+					],
+					[
+						"colorpicker",
+						"js\\modules\\infragistics.ui.colorpickersplitbutton.js"
+					],
+					[
+						"colorpickersplitbutton",
+						"js\\modules\\infragistics.ui.colorpickersplitbutton.js"
+					],
+					[
+						"datasource",
+						"js\\modules\\infragistics.datasource.js"
+					],
+					[
+						"infragistics.ui.toolbar.js",
+						"js\\modules\\infragistics.ui.toolbar.js"
+					],
+					[
+						"infragistics.ui.dialog.js",
+						"js\\modules\\infragistics.ui.dialog.js"
+					],
+					[
+						"infragistics.ui.combo.js",
+						"js\\modules\\infragistics.ui.combo.js"
+					],
+					[
+						"infragistics.ui.htmleditor.js",
+						"js\\modules\\infragistics.ui.htmleditor.js"
+					],
+					[
+						"regi",
+						"app\\components\\register\\register.component.ts"
+					],
+					[
+						"pa",
+						"package.json"
+					],
+					[
+						"pluga",
+						"wp-includes\\pluggable.php"
+					],
+					[
+						"infragistics.css",
+						"html\\Content\\Infragistics\\css\\structure\\infragistics.css"
+					],
+					[
+						"infragistics.dv.js",
+						"html\\Scripts\\Infragistics\\js\\infragistics.dv.js"
+					],
+					[
+						"rou",
+						"Config\\routes.php"
+					],
+					[
+						"",
+						"infragistics.ui.grid.framework.js"
+					],
+					[
+						"da",
+						"js\\data-source.js"
+					],
+					[
+						"main",
+						"main.css"
+					],
+					[
+						"pro",
+						"igGrid\\excel-exporting-with-column-hiding\\products.js"
+					],
+					[
+						"pr",
+						"kendo-grid\\products.js"
+					],
+					[
+						"p",
+						"kendo-grid\\products.js"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"app",
+						"app\\css\\app.css"
+					],
+					[
+						"boostra",
+						"app\\css\\bootstrap.min.css"
+					],
+					[
+						"app.js",
+						"app\\js\\app.js"
+					],
+					[
+						"app.",
+						"app\\css\\app.css"
+					],
+					[
+						"appj",
+						"app\\js\\app.js"
+					],
+					[
+						"in",
+						"AngularAds\\app\\index.html"
+					],
+					[
+						"vide",
+						"js\\app\\models\\video-model.js"
+					],
+					[
+						"ind",
+						"VideoSystem\\index.html"
+					],
+					[
+						"new",
+						"VideoSystem\\js\\app\\controllers\\new-video-controller.js"
+					],
+					[
+						"home",
+						"VideoSystem\\views\\home.html"
+					],
+					[
+						"st",
+						"StudentPage\\app\\controllers\\student-controller.js"
+					],
+					[
+						"con",
+						"StudentPage\\app\\controllers\\student-controller.js"
+					],
+					[
+						"s",
+						"StudentPage\\app\\controllers\\StudentController.js"
+					],
+					[
+						"co",
+						"StudentPage\\app\\controllers\\StudentController.js"
+					],
+					[
+						"testap",
+						"TypeScript-AMD-Boilerplate-master\\src\\assets\\scripts\\TestApp.ts"
+					],
+					[
+						"tre",
+						"tree-view-plugin\\tree-view.js"
+					],
+					[
+						"htm",
+						"tree-view-plugin\\index.html"
+					],
+					[
+						"re",
+						"Restaurant-Manager-Skeleton.js"
+					],
+					[
+						"item",
+						"js\\item.js"
+					],
+					[
+						"sec",
+						"js\\section.js"
+					],
+					[
+						"section",
+						"js\\section.js"
+					],
+					[
+						"as",
+						"js\\extensions\\igniteui-angular.js"
+					],
+					[
+						"lob",
+						"js\\infragistics.lob.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1215,12 +3900,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 225.0,
+			"side_bar_width": 299.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 30,
 			"workspace_name": ""
 		}
 	],
@@ -1228,6 +3913,8 @@
 	{
 		"recent_workspaces":
 		[
+			"/D/Workspace/zero-blocks/zero-blocks.sublime-workspace",
+			"/D/Workspace/Angular-Training/ticketing-system/ticketing-system.sublime-workspace"
 		]
 	}
 }

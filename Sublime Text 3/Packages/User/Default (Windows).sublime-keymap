@@ -1,3 +1,19 @@
 [
-	{ "keys": ["ctrl+alt+t"], "command": "unexpand_tabs", "args": {"set_translate_tabs": true} }
+	{ "keys": ["ctrl+alt+t"], "command": "unexpand_tabs", "args": {"set_translate_tabs": true} },
+	{ "keys": ["f12"],
+    	"command": "side_bar_open_in_browser" ,
+    	"args":{"paths":[], "type":"testing", "browser":""}
+    },
+    { "keys": ["alt+f12"],
+        "command": "side_bar_open_in_browser",
+        "args":{"paths":[], "type":"production", "browser":""}
+    },
+    {
+        "keys": ["ctrl+t"],
+        "command": "side_bar_new_file2"
+    },
+    {
+        "keys": ["f2"],
+        "command": "side_bar_rename"
+    }
 ]
